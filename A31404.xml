@@ -1,0 +1,890 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>King David's deliverance, and thanksgiving applied to the case of our King and nation, in two sermons, the one preached on the second, the other on the ninth of September, 1683 / by John Cave ...</title>
+            <author>Cave, John, d. 1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 110 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31404</idno>
+            <idno type="STC">Wing C1584</idno>
+            <idno type="STC">ESTC R17525</idno>
+            <idno type="EEBO-CITATION">12281841</idno>
+            <idno type="OCLC">ocm 12281841</idno>
+            <idno type="VID">58737</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31404)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58737)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 624:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>King David's deliverance, and thanksgiving applied to the case of our King and nation, in two sermons, the one preached on the second, the other on the ninth of September, 1683 / by John Cave ...</title>
+                  <author>Cave, John, d. 1690.</author>
+               </titleStmt>
+               <extent>[6], 63 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata slip mounted on p. 58.</note>
+                  <note>"An Eucharistical ode to God our Deliverer": p. 59-63.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms XVIII, 48-49 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58737:1" rendition="simple:additions"/>
+            <p>King DAVID's Deliverance, and Thankſgiving.</p>
+            <p>Applied to the Caſe of Our <hi>King and Nation,</hi> In Two SERMONS, The one preached on the Second, the other on the Ninth of <hi>September.</hi> 1683.</p>
+            <p>By <hi>JOHN CAVE,</hi> Rector of <hi>Cold-Orton</hi> in <hi>Leicester<g ref="char:EOLhyphen"/>ſhire;</hi> And Chaplain to the L. Biſhop of <hi>Durham.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Si quis unquam fuit inter Reges, qui Davidis expreſſam &amp; maximè luculentam imaginem referret, is ſanè es, ita ut nemo tecum eatenus comparandus eſſe videatur.</hi> 
+                  <bibl>Amyrard. <hi>Epiſtola ad Regem noſtrum antè Paraphraſ. in Pſalmos.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>
+                  <hi>Tum demum timentur Reges, cum in populos incidit Domini pavor. E periculis evadunt, cum Deus dat ſalutem, &amp; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>os eruit ex gladio maligno.</hi> 
+                  <bibl>Bochart. <hi>Epiſtola ad eundem.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>
+                  <hi>The King's</hi> Glory is great in <hi>God's</hi> Salvation: Honour and Majeſty hath he laid upon him.</p>
+               <bibl>
+                  <hi>Pſal. 21.5.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>Richard Chiſwell,</hi> at the Roſe and Crown in St. <hi>Paul</hi>'s Church-Yard. M.DC.LXXXIII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:58737:2"/>
+            <pb facs="tcp:58737:2" rendition="simple:additions"/>
+            <head>TO THE Right Honourable, and Right Reverend Father in God, NATHANAEL, Lord Biſhop of DURHAM, And Clerk of the Cloſet to his Majeſty.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Moſt humbly dedicate theſe plain Diſcourſes to your <hi>Lordſhip;</hi> which though unworthy of your notice, I hope, may not be altogether un<g ref="char:EOLhyphen"/>uſeful to ſome part of our World, at leaſt not to thoſe of my own Charge, among whom I am chiefly bound (by my beſt endeavours) to promote <hi>Religion</hi> and <hi>Loyalty.</hi>
+            </p>
+            <p>I know your <hi>Lordſhip</hi> favours the Subject; and that you ſupport and adorn it, much more by your great and eminent <hi>Example,</hi> than ever I can do by Argument or Eloquence: Yet I have reaſon to conclude, that your ſingular <hi>Goodneſs</hi> and Candor, will eaſily overlook, or pardon, what your <hi>Wiſdom</hi> cannot patronize.</p>
+            <pb facs="tcp:58737:3"/>
+            <p>And becauſe I am well aſſured, that your <hi>Lordſhip</hi> is ſufficiently apprehenſive of the evil and ſpreading Effects of ſome Mens popular <hi>Prints,</hi> as well as <hi>Preachings,</hi> I hope you will be pleaſed to allow of my <hi>affectionate</hi> oppoſition, un<g ref="char:EOLhyphen"/>der the conduct of more powerful <hi>Reaſoners.</hi>
+            </p>
+            <p>It is, I confeſs, too evident, that the Miſactings of the real <hi>Papiſts,</hi> and of our <hi>counterfeit Proteſtants,</hi> proceed rather from perverſneſs of Will, and frowardneſs of Tem<g ref="char:EOLhyphen"/>per, than from error of Judgment, or ſcruple of Conſci<g ref="char:EOLhyphen"/>ence: And therefore they ſeem to need more the <hi>Schoolings</hi> of the <hi>Law,</hi> and the <hi>Rebukes</hi> of <hi>Authority,</hi> than the Illuminations of the <hi>Goſpel,</hi> and the Warnings of the <hi>Scrip<g ref="char:EOLhyphen"/>ture,</hi> the Doctrines, Exhortations, Perſwaſives of our <hi>Re<g ref="char:EOLhyphen"/>conciling Miniſtry:</hi> And if they are not already <hi>paſt feeling,</hi> and incurably obſtinate, are like to profit more under an equal diſtribution of the <hi>Acts</hi> of <hi>Juſtice,</hi> than a <hi>right diviſion</hi> of the <hi>Word of Truth.</hi>
+            </p>
+            <p>Yet I have ſtill the charity to think, that many of thoſe, who by <hi>their</hi> fair Colourings, and plauſible Pretences, have been drawn into <hi>Conventicles, Covenants,</hi> and the <hi>Society</hi> of a very vile Cauſe, do not err altogether of <hi>malicious wickedneſs,</hi> but partly through <hi>ſimplicity of Heart;</hi> like ſome of thoſe who followed <hi>Abſolom.</hi> And therefore though too guilty, yet not incorrigibly ſo, nor quite paſt the Cure, at leaſt not the benefit of ſofter Remedies; and ſuch we are commiſſioned to adminiſter, <hi>meek Reſtauratives,</hi> and rational Confirmations.</p>
+            <pb facs="tcp:58737:3" rendition="simple:additions"/>
+            <p>But if our <hi>Sermons</hi> alone will not prevail with ſuch as theſe, they may happily give edg and ſucceſs to the <hi>Secular Sword,</hi> and make even the <hi>Law</hi> a <hi>miniſtration</hi> of Love, as well as of Terror, by teaching them <hi>to be ſubject, not only for Wrath,</hi> but <hi>for Conſcience;</hi> and to be <hi>Active,</hi> as far as honeſtly they can, before they be <hi>Paſſive</hi> in their <hi>Obedience;</hi> aſſuring them, that <hi>praeſumptio eſt pro Authoritate imponentis,</hi> that where they have not a clear and undoubted evidence of the contrary, they may ſafely con<g ref="char:EOLhyphen"/>clude, that <hi>Right</hi> and <hi>Truth</hi> are on the <hi>Governor</hi>'s ſide.</p>
+            <p>
+               <hi>My Lord,</hi>
+            </p>
+            <p>I publiſh this Diſcourſe principally for the ſake of ſuch Men as theſe, who have been <hi>preached</hi> into a diſlike of our <hi>Civil</hi> and <hi>Eccleſiaſtical Polity,</hi> and therefore may happily be <hi>preached</hi> out of it again: Men whoſe Intentions poſſibly have not been ſo bad as their <hi>Cauſe;</hi> but their ſimple Hearts <hi>have been beguiled</hi> with the <hi>good Words</hi> and <hi>enticing Speeches,</hi> of thoſe that <hi>promiſed Liberty</hi> and <hi>Refor<g ref="char:EOLhyphen"/>mation,</hi> while themſelves were <hi>the Servants of Corrup<g ref="char:EOLhyphen"/>tion,</hi> and of a baſe Intereſt.</p>
+            <p>Yet truly, <hi>My Lord,</hi> I cannot expect any very good Fruit of my own, or of much better Sermons on the ſame Oc<g ref="char:EOLhyphen"/>caſion, even among this ſort of Men, if that viſible Hand of <hi>Providence,</hi> which hath of late ſo ſignally detected the Hypocriſy of their <hi>Party,</hi> hath not already <hi>opened their Eyes, touched their Hearts,</hi> and in a good meaſure
+<pb facs="tcp:58737:4"/>wrought off their Prejudices, and prepared them for contrary impreſſions.</p>
+            <p>But if this Publication, and the Prayers that attend it, obtain not all the good Ends of its Deſign; yet I ſhall think it ſpeeds well, if it meets with your Lordſhips Approbation, or kind Acceptance, as a real, though a very mean Teſtimony of my grateful ſence, of your ample and obliging Bounty, to,</p>
+            <closer>
+               <salute>My good Lord,</salute>
+               <signed>Your Lordſhips moſt faithfully and humbly devoted Servant and Chaplain, <hi>JOHN CAVE.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:58737:4" rendition="simple:additions"/>
+            <head>King DAVID's Deliverance, and Thankſgiving.</head>
+            <div n="1" type="sermon">
+               <head>SERMON I.</head>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>PSALM 18.48, 49.</hi>
+                     </bibl>
+                     <p>He delivereth me from mine Enemies: yea, thou lifteſt me up above thoſe that riſe up againſt me; thou haſt delivered me from the violent Man.</p>
+                     <p>Therefore will I give thanks unto thee, <hi>(or con<g ref="char:EOLhyphen"/>feſs unto thee)</hi> O Lord, among the Hea<g ref="char:EOLhyphen"/>then; and ſing Praiſes unto thy Name.</p>
+                  </q>
+               </epigraph>
+               <p>
+                  <seg rend="decorInit">T</seg>His <hi>Pſalm,</hi> is a Song of Thankſgiving, penned by King <hi>David,</hi> in comme<g ref="char:EOLhyphen"/>moration of his many wonderful and gracious <hi>Deliverances,</hi> from the Con<g ref="char:EOLhyphen"/>ſpiracies and Aſſaults of his Enemies, the <hi>Philiſtims, Syrians, Moabites;</hi> particularly, rebellious <hi>Abſalom,</hi> and bloody <hi>Saul;</hi>
+                  <pb n="2" facs="tcp:58737:5"/>as appeareth by the Courſe and Method of the Story, where it is recorded, 2 <hi>Sam.</hi> 22. In it, with an enlarged and exilient Spirit, the Spirit of a King, and of a Saint, he celebrates the <hi>Almighty</hi> Power and Goodneſs of <hi>God,</hi> by deſcribing his <hi>Dangers</hi> in the moſt black and terrible Images; and his <hi>De<g ref="char:EOLhyphen"/>liverances</hi> from them, in all the advantages of Repreſentation, which the Wiſdom of <hi>Royal</hi> and <hi>Religious</hi> Gratitude could ſupply.<note place="margin">
+                     <hi>Verſ.</hi> 4, 5.</note> 
+                  <hi>The Sorrows of Death compaſſed me, and the Floods of ungodly Men made me afraid. The Sorrows of Hell compaſſed me about; the Snares of Death prevented me.</hi> He go<g ref="char:EOLhyphen"/>eth down to the Grave, yea, to Hell it ſelf, to ſample his Sorrows and his Fears, the <hi>deviliſh</hi> Ma<g ref="char:EOLhyphen"/>lice and Cruelty of his <hi>Enemies.</hi> He goeth up to the Rocks, the high places of Strength and Safety, yea, to <hi>Life</hi> and <hi>Salvation</hi> it ſelf, in its Eternal Fountain, to furniſh him with ſome ſuitable Illu<g ref="char:EOLhyphen"/>ſtrations of that great Mercy, which ſo miraculouſly ſubdued his Enemies, and ſupported his Empire. In the Verſes before my Text; <hi>The Lord liveth, and bleſſed be my Rock; and let the God of my Sal<g ref="char:EOLhyphen"/>vation be exalted: It is God that avengeth me, and ſubdueth the People under me.</hi> What follows is the <hi>Text,</hi> to which I ſhall limit my Diſcourſe at this time.</p>
+               <q>
+                  <p>He delivereth me from mine Enemies: yea, thou lifteſt me up above thoſe that riſe up againſt me; thou haſt delivered me from the violent Man.</p>
+                  <pb n="3" facs="tcp:58737:5" rendition="simple:additions"/>
+                  <p>Therefore will I confeſs unto thee, O Lord, among the Heathen: and ſing praiſes unto thy Name.</p>
+               </q>
+               <p>In theſe words we have an account,</p>
+               <list>
+                  <item>I. Of <hi>David</hi>'s Deliverances from his Enemies, <hi>verſ.</hi> 48.</item>
+                  <item>II. Of his devout acknowledgment of, and thankful return for thoſe Deliverances, <hi>verſ.</hi> 49.</item>
+               </list>
+               <p>Firſt, We have an account of <hi>David's Delive<g ref="char:EOLhyphen"/>rances;</hi> and therein theſe Obſervables.</p>
+               <list>
+                  <item>1. <hi>The Terms.</hi>
+                  </item>
+                  <item>2. <hi>The Author.</hi>
+                  </item>
+                  <item>3. <hi>The Manner thereof.</hi>
+                  </item>
+               </list>
+               <p n="1">1. The Terms of it, or the Evils from which he was delivered; expreſſed,</p>
+               <list>
+                  <item>1. More generally; <hi>from his Enemies.</hi>
+                  </item>
+                  <item>2. More particularly; <hi>from the violent Man.</hi>
+                  </item>
+               </list>
+               <p n="2">2. The Author of thoſe Deliverances; and that is <hi>God</hi> himſelf, <hi>He hath delivered me from mine Ene<g ref="char:EOLhyphen"/>mies: Thou haſt delivered me from the violent Man.</hi>
+               </p>
+               <p n="3">3. The Manner of theſe Deliverances; <hi>Thou haſt exalted me, above thoſe that riſe up againſt me.</hi>
+               </p>
+               <pb n="4" facs="tcp:58737:6"/>
+               <p>Secondly, We have a devout Acknowledgment of, and thankful Return for theſe Deliverances and Preſervations: <hi>Therefore,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ſo the <hi>Septuagint</hi> renders it, <hi>will I confeſs unto thee, O Lord, among the Heathen; and ſing praiſes unto thy Name.</hi>
+               </p>
+               <p>I purpoſe to ſpeak of theſe in their order.</p>
+               <list>
+                  <item>1. Of the Mercy, <hi>David's Deliverances.</hi>
+                  </item>
+                  <item>2. Of the Duty, <hi>David's Confeſſion and Thanks<g ref="char:EOLhyphen"/>giving.</hi>
+                  </item>
+               </list>
+               <p>And then make what Compariſons we fairly may, between King <hi>David</hi>'s, and <hi>our King's Deliveran<g ref="char:EOLhyphen"/>ces;</hi> to excite us to the performance of the ſame Duty, to promote the ſame religious Joy and Praiſe, at the time of our Solemn <hi>Thanksgiving</hi> and Feſtivity.</p>
+               <p n="1">I. Firſt then for <hi>David's Deliverances. Delive<g ref="char:EOLhyphen"/>rance</hi> and Preſervation, are <hi>Acts</hi> whereby <hi>God</hi> re<g ref="char:EOLhyphen"/>peats the Wonder and the Mercy of his <hi>Creation,</hi> and giveth, as it were, a new Life, in the continu<g ref="char:EOLhyphen"/>ance of the Old; a kind of <hi>Reſurrection,</hi> and re<g ref="char:EOLhyphen"/>vival, without any real <hi>death.</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 102.8.</note> 
+                  <hi>The People that ſhall be created, ſhall praiſe the Lord; i. e.</hi> ſay ſome, the <hi>People</hi> brought from a low and deſpicable con<g ref="char:EOLhyphen"/>dition, next to nothing, or the <hi>People</hi> delivered from an imminent deſtruction.</p>
+               <p>The <hi>Deliverance</hi> of a <hi>King,</hi> hath on it ſome ſpe<g ref="char:EOLhyphen"/>cial prints and ſignatures of the <hi>Divine Power</hi> and <hi>Goodneſs. God</hi> delivered <hi>David from the Lion,
+<pb n="5" facs="tcp:58737:6" rendition="simple:additions"/>and the Bear,</hi> and the <hi>uncircumciſed Philiſtine,</hi> when he was in a more private Capacity; but his Prote<g ref="char:EOLhyphen"/>ctions in his <hi>Royalty</hi> were more eminent and re<g ref="char:EOLhyphen"/>markable, and therefore he magnifies them in the <hi>Verſes</hi> next to my <hi>Text. Great Deliverance giveth he to his King, and ſheweth Mercy,</hi> that is, ſignal and extraordinary <hi>Mercy, to his Anointed.</hi> And when he ſings a <hi>new Song</hi> of Praiſe, <hi>Pſal.</hi> 144.10. this is the Burthen of it, <hi>It is he that giveth Salva<g ref="char:EOLhyphen"/>tion to Kings, who delivereth</hi> David <hi>his Servant from the hurtful Sword.</hi>
+               </p>
+               <p>
+                  <hi>In King</hi> David'<hi>s Deliverances,</hi> we may obſerve;</p>
+               <p>Firſt, The dreadful Evils and Dangers from which he was delivered: expreſſed,</p>
+               <p n="1">1. More generally by <hi>Enemies. Enemy</hi> is a word common to <hi>Men,</hi> with <hi>Devils;</hi> and <hi>David,</hi> who ſtiles his Enemies, as you heard, <hi>Floods of ungodly Men,</hi> compares his Sufferings under them, to the <hi>Sorrows</hi> of <hi>Hell,</hi> the effects of a deep and <hi>deviliſh</hi> Malice.</p>
+               <p>Though not only the <hi>Lives,</hi> but the other <hi>Rights</hi> and <hi>Properties</hi> of <hi>Kings,</hi> are made by <hi>God</hi> more <hi>ſacred</hi> and inviolable, than thoſe of other Men; and though Obedience to Authority, is the <hi>Mother</hi> and the Nurſe of <hi>VVelfare,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> in <hi>Aeſchilus</hi> his expreſſion; yet through the inſtigation of the <hi>Devil,</hi> the firſt <hi>Plotter</hi> of all Miſchief, (who is naturally and originally <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a profeſſed Ene<g ref="char:EOLhyphen"/>my to God, and conſequently to all who reſemble him in Power and Goodneſs) are Diſcontents
+<pb n="6" facs="tcp:58737:7"/>raiſed, <hi>Sedition</hi> and Rebellion <hi>moved</hi> againſt the beſt <hi>Governors. Moſes</hi> met with great oppoſition and contradiction; even his own Kindred, <hi>Aaron</hi> and <hi>Miriam,</hi> began to malign him.</p>
+               <p>To paſs by other Inſtances, we have a full one before us; <hi>David,</hi> I mean, <hi>A Man after God's own Heart,</hi> one who profeſſed and countenanced the True <hi>Religion;</hi> and a <hi>King</hi> of <hi>God</hi>'s own making, crowned, anointed, and placed in the Throne, as it were, by his immediate Hand; who though he was a wiſe and gracious <hi>Prince,</hi> and <hi>ruled them prudently by his Power;</hi> yea, though he was popu<g ref="char:EOLhyphen"/>lar for ſome time, and <hi>whatſoever the King did, pleaſed the People;</hi> I ſay, notwithſtanding all theſe happy Concurrences, theſe <hi>Conſpiracies,</hi> as <hi>I may ſo ſpeak,</hi> of <hi>Vertue, Right, Prudence, Clemency,</hi> He could not ſit quiet and ſafe in his Govern<g ref="char:EOLhyphen"/>ment; He found many <hi>Enemies,</hi> both at Home and Abroad. His own Son rebelled againſt him; And with <hi>Abſolom went two hundred Men out of Jeru<g ref="char:EOLhyphen"/>ſalem.</hi>
+                  <note place="margin">2 <hi>Sam.</hi> 15.11.</note> He attracts the People's Eyes, by a <hi>Princely</hi> Grandeur, and ſteals away their Hearts by a po<g ref="char:EOLhyphen"/>pular Compliance, fair Speeches, and obliging Condeſcentions. <hi>He riſes up early, and ſtands in the way of the Gate; and if any Man came nigh him, to do him obeyſance, he put forth his Hand, and took him, and kiſſed him.</hi> By theſe <hi>Artifices,</hi> he ſoon gained many <hi>Aſſociates,</hi> who followed him, ſome of them perhaps in the <hi>ſimplicity,</hi> but the moſt, and the moſt conſiderable, in the malice and wickedneſs <hi>of their Hearts,</hi> to the great en<g ref="char:EOLhyphen"/>dangering of the <hi>Crown</hi> and Life of his Father.
+<pb n="7" facs="tcp:58737:7" rendition="simple:additions"/>So apt are the <hi>Sons of Belial,</hi> who can bear no Yoke, to be complaining and quarrelling, not only under the moſt Juſt, but under the moſt mer<g ref="char:EOLhyphen"/>ciful and eaſy Rule.</p>
+               <p>The <hi>Spirit that is in us luſteth to Envy,</hi> and is ever and anon murmuring at petty Grievances, and clamouring at every little Reſtraint of our Licentiouſneſs, as a violation of our lawful Li<g ref="char:EOLhyphen"/>berties and Privileges, and thereupon grounding Pretences for <hi>Rebellion;</hi> which <hi>David</hi> (in <hi>verſ.</hi> 43. of this <hi>Pſalm</hi>) calls, <hi>the Strivings of the People.</hi> The <hi>beginning</hi> of which <hi>Strife,</hi>
+                  <note place="margin">
+                     <hi>Prov.</hi> 17.14.</note> as <hi>Solomon</hi> wiſely obſerved, is as when one letteth out Water, which hath but a ſlender utterance at firſt, but it ſoon ſwells and rages, bears down all Dams, riſeth a<g ref="char:EOLhyphen"/>bove all Banks and Bounds, and ſpreads into a <hi>Flood</hi> of <hi>
+                     <g ref="char:V">Ʋ</g>ngodlineſs,</hi> an irreſiſtible Torrent of Fury, Cruelty, and Treaſon: Which minds me of the</p>
+               <p n="2">2. Second Thing, and that which was the great<g ref="char:EOLhyphen"/>eſt and more particular Evil, from which <hi>David</hi> was delivered, <hi>the Violent Man;</hi> Men, whoſe Diſ<g ref="char:EOLhyphen"/>contents, at ſome ſeeming Errors in his Govern<g ref="char:EOLhyphen"/>ment, ſoon expreſſed themſelves in diminiſhing and defamatory Speeches,<note place="margin">
+                     <hi>Pſal.</hi> 89.51.</note> wherewith they <hi>reproach<g ref="char:EOLhyphen"/>ed the Footſteps of God's Anointed:</hi> And from theſe proceeded to Seditious <hi>Petitions</hi> and Remon<g ref="char:EOLhyphen"/>ſtrances, under the colour of <hi>preferring</hi> a <hi>Suit,</hi> or <hi>Cauſe,</hi> as is expreſſed 2 <hi>Sam.</hi> 15.4. Or in the Language of our Times, a <hi>Grievance of the Sub<g ref="char:EOLhyphen"/>ject.</hi> Theſe Diſcontents, by degrees, were con<g ref="char:EOLhyphen"/>firmed into a Reſolution to <hi>ſeize</hi> his <hi>Guards,</hi> and
+<pb n="8" facs="tcp:58737:8"/>his <hi>Perſon,</hi> and ſo to give Limits to his <hi>Dominion;</hi> which perhaps he intimates by that <hi>gathering</hi> of the <hi>Abjects,</hi> and raſcality of the <hi>People together</hi> a<g ref="char:EOLhyphen"/>gainſt <hi>him;</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 35.15.</note> or elſewhere, by the <hi>gathering of the Mighty;</hi> or more frequently, by their beſetting or <hi>compaſſing him about on every ſide;</hi> which traite<g ref="char:EOLhyphen"/>rous Machinations, terminated in the higheſt in<g ref="char:EOLhyphen"/>ſtance of Diſloyalty, a <hi>violent</hi> attempt upon his <hi>Sa<g ref="char:EOLhyphen"/>cred</hi> Life.</p>
+               <p>But if the <hi>Violent Man</hi> may not here be inter<g ref="char:EOLhyphen"/>preted indefinitely, or for a Band of <hi>Regicides;</hi> may we fix it upon <hi>Abſolom?</hi> Perhaps not; His <hi>Cruelty,</hi> it may be, was not ſo great as <hi>his Ambiti<g ref="char:EOLhyphen"/>on;</hi> and he might be content to ſpare his <hi>Father's Head,</hi> if he could take the <hi>Crown</hi> from it; or elſe leave that horrid part of the Plot, to the manage<g ref="char:EOLhyphen"/>ment of <hi>Achitophel</hi> and his bloody Complices.</p>
+               <p>
+                  <hi>Saul</hi> rather ſeems to be the <hi>Violent Man</hi> in the <hi>Text;</hi> but we ſhall not ſtay to decide the compe<g ref="char:EOLhyphen"/>tition, where each of them ſeem to have but too juſt a claim to this ugly Character.</p>
+               <p>Proceed we then to the</p>
+               <p>Second obſervable in <hi>David's Deliverances,</hi> and that is the <hi>Author</hi> of them, the great Governour of the World. <hi>He hath delivered, Thou haſt delivered.</hi>
+               </p>
+               <p>Indeed, all Deliverances are the Works of <hi>God</hi> himſelf.<note place="margin">
+                     <hi>Pſal.</hi> 68.20.</note> 
+                  <hi>He is the God of Salvation, to him belong the Iſſues from Death.</hi> It is he alone that hath Goodneſs, Strength, and Wiſdom, ſufficient to diſ<g ref="char:EOLhyphen"/>cover concealed Dangers, and to deliver from
+<pb n="9" facs="tcp:58737:8" rendition="simple:additions"/>them: <hi>Goodneſs</hi> to exerciſe his Wiſdom, and exert his Strength: <hi>Strength,</hi> to ſerve and perfect his Goodneſs; <hi>Wiſdom,</hi> to guide and manage; both for a ſeaſonable Detection, and an effectual De<g ref="char:EOLhyphen"/>feat, of the <hi>Conſpiracies</hi> of ſubtil and evil-minded Men.</p>
+               <p>But there are ſome reſerved Caſes which are more proper to <hi>God,</hi> in which his Hand and Power is more viſible; and thoſe are Caſes of great Ex<g ref="char:EOLhyphen"/>tremity; ſuch as <hi>Jonas</hi>'s in the <hi>Whales Belly;</hi> the <hi>three Children in the fiery Furnace; Daniel's in the Lion's Den; David's in the depths</hi> of his Diſtreſs, and when he was wholly deſtitute of all humane Aid: <hi>I looked upon my right hand, and beheld,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 142.4.</note> 
+                  <hi>but there was no Man that would know me, Refuge failed me; no Man cared for my Soul.</hi> Then he adds, <hi>verſ.</hi> 5. <hi>I cried unto thee, O Lord, I ſaid, Thou art my Refuge, deliver me from my Perſecutors, for they are ſtronger than I; thou art the helper of the helpleſs.</hi>
+               </p>
+               <p>So here in my Text, when Faction and Sedition was grown up to the height of Cruelty and <hi>Vio<g ref="char:EOLhyphen"/>lence;</hi> when the <hi>Plot</hi> was come to the Birth, and the Fatal Blow ready to be given, then God deli<g ref="char:EOLhyphen"/>vers by his <hi>Prerogative,</hi> and <hi>David</hi> attributes it to him, not only eminently, but excluſively. <hi>It is God that avengeth me,</hi> it is <hi>God,</hi> and none but He; <hi>Thou haſt delivered me from the Violent Man;</hi> Thou, and Thou only. And he gathers ſo much confi<g ref="char:EOLhyphen"/>dence from the ſingle protection of his God, as I may ſo ſpeak, that he defies whole Troops and Armies of his Enemies:<note place="margin">
+                     <hi>Pſal.</hi> 27.3.</note> 
+                  <hi>Though an Hoſt ſhould en<g ref="char:EOLhyphen"/>camp againſt me, my Heart ſhould not fear.</hi>
+               </p>
+               <pb n="10" facs="tcp:58737:9"/>
+               <p>He had found, by experience, that when <hi>God</hi> alone appeared for him, neither the Valour of <hi>Ab<g ref="char:EOLhyphen"/>ſalom,</hi> the Policy of <hi>Achitophel,</hi> nor the Power of <hi>Saul</hi> could prevail againſt him; but <hi>he delivereth him from all his Enemies;</hi> from theſe, and from the worſt of them, the Cruel, the <hi>Violent Man.</hi> And ſo much for the <hi>Author</hi> of <hi>David</hi>'s great <hi>Deliverances, The Lord, ſtrong and mighty.</hi>
+               </p>
+               <p>We come next to conſider, in a</p>
+               <p>Third place, The manner of this Deliverance; which maketh it ſtill greater, and more to be re<g ref="char:EOLhyphen"/>garded.</p>
+               <p>It was a Deliverance from all his Enemies; the Murmurers of the <hi>Country,</hi> and the Rioters of the <hi>City;</hi> the Invaders of his <hi>Prerogative,</hi> and the <hi>Con<g ref="char:EOLhyphen"/>ſpirators</hi> againſt his <hi>Life;</hi> neither was it only a Deliverance from them, but a <hi>lifting him up</hi> above them, and a confirmation of his Dominion.</p>
+               <p>We ſhall ſtay here a little to open theſe Parti<g ref="char:EOLhyphen"/>culars, and ſhew you,</p>
+               <p>Firſt of all, That it was a compleat Delive<g ref="char:EOLhyphen"/>rance.</p>
+               <p>Secondly, That it was an advantageous Delive<g ref="char:EOLhyphen"/>rance; it put Him, and his Affairs, into a much better poſture than they were in before.</p>
+               <p>Firſt, I ſay, It was a compleat and entire Deli<g ref="char:EOLhyphen"/>verance; a Deliverance from all his Enemies, and from all the Miſchief and <hi>Violence</hi> they plotted a<g ref="char:EOLhyphen"/>gainſt him.</p>
+               <pb n="11" facs="tcp:58737:9"/>
+               <p>Sometimes our Eſcape from one Enemy, doth but expoſe us to another; and when <hi>we flee from a Lion,</hi> a <hi>Bear</hi> meets us.</p>
+               <p>Sometimes <hi>God</hi> delivers from <hi>Death,</hi> but yet de<g ref="char:EOLhyphen"/>livers up to <hi>Captivity:</hi> As he would not ſuffer his People to be deſtroyed by <hi>Shiſhak</hi> King of <hi>Egypt, Nevertheleſs they ſhall be his Servants,</hi>
+                  <note place="margin">2 <hi>Chron.</hi> 12.8</note> 
+                  <hi>that they may know my Service,</hi> and <hi>the Service of the Kingdoms of the Countries.</hi> He delivers them from <hi>Deſtruction,</hi> but not from <hi>Slavery;</hi> or he delivers out of Cap<g ref="char:EOLhyphen"/>tivity, but not without ſome Marks, or Scars, of their former hard Uſage and Endurance: They are ſaved, like <hi>a Brand ſnatch'd out of the Fire,</hi> in the Prophet <hi>Amos</hi> his Compariſon; ſcorched,<note place="margin">
+                     <hi>Amos</hi> 4.11.</note> but not conſumed.</p>
+               <p>Sometimes he vouchſafeth compleat Deliverance, as he did to <hi>Daniel;</hi> the Lions were ſo far from devouring him, that they did him not the leaſt hurt: And as he did to the three Children; the Fire was ſo far from conſuming them, that it did not ſinge them, nor ſo much as the ſmell of it remain upon them.</p>
+               <p>And ſo it was here in this Caſe before us. <hi>Da<g ref="char:EOLhyphen"/>vid</hi> was delivered from all his Enemies, and from all the Effects of their Enmity; from the <hi>Strivings</hi> of the <hi>People,</hi> and the <hi>Violence</hi> of their Managers; from that ſort of Enemies that could colour and palliate their Deſigns, <hi>ſpeak Peace to their Neigh<g ref="char:EOLhyphen"/>bours,</hi> and pretend fair to their <hi>King;</hi> no leſs than from open and declared Rebels, who carry Wea<g ref="char:EOLhyphen"/>pons in their Hands, as well as Miſchief in their Hearts. Nay further, he was delivered, not only
+<pb n="12" facs="tcp:58737:10"/>from Death, but from <hi>Seizure</hi> and <hi>Impriſonment;</hi> from all Reſtraints of Power, and Diminutions of <hi>Royalty:</hi> as appeareth more fully by the Particu<g ref="char:EOLhyphen"/>lars of his Acknowledgment; Pſal. 116.8. <hi>Thou haſt delivered my Soul from Death, mine Eyes from Tears, and my Feet from falling.</hi> And for this rea<g ref="char:EOLhyphen"/>ſon he ſtiles it Great, becauſe it was entire and compleat Deliverance. Nay more than ſo;</p>
+               <p>Secondly, It was a beneficial and advantageous Deliverance; It placed him in better Circumſtan<g ref="char:EOLhyphen"/>ces than he was in before; and by an admirable Contrivance of the <hi>Divine Providence,</hi> his Danger confirms his Safety; and the <hi>ſubduing</hi> of the <hi>Peo<g ref="char:EOLhyphen"/>ple,</hi> contributes to his greater Exaltation.</p>
+               <p>
+                  <hi>He delivereth me from mine Enemies; yea, thou lifteſt me up above thoſe that riſe up againſt me.</hi> He ſpeaks it with a ſpecial <hi>Emphaſis;</hi> and it may de<g ref="char:EOLhyphen"/>note theſe two things.</p>
+               <list>
+                  <item>1. <hi>An Eſtabliſhment of his Throne.</hi>
+                  </item>
+                  <item>2. <hi>An Encreaſe of his Glory.</hi>
+                  </item>
+               </list>
+               <p n="1">1. It denotes, <hi>An Eſtabliſhment of his Throne;</hi> a new Guard and Defence upon his Perſon and Go<g ref="char:EOLhyphen"/>vernment. <hi>Thou lifteſt me up,</hi> (it is as much as if he had ſaid) thou ſetteſt me out of the reach, above the Power of thoſe that riſe up againſt me.<note place="margin">
+                     <hi>Pſal.</hi> 30.7.</note> 
+                  <hi>Lord, by thy Favour, thou haſt made my Mountain to ſtand ſtrong.</hi>
+               </p>
+               <p>God gave him a new ſecurity of his Life and Peace; not only by giving him the Necks of his Enemies, delivering them mercifully into his Hands,
+<pb n="13" facs="tcp:58737:10"/>the Hands of Juſtice, who had traiterouſly lifted up their hands, the <hi>hands of Violence,</hi> againſt his <hi>Crown</hi> and <hi>Dignity.</hi>
+               </p>
+               <p>But alſo awakening <hi>Him,</hi> his <hi>Counſellors,</hi> and <hi>Magiſtrates,</hi> by the eſcape of ſo imminent a Dan<g ref="char:EOLhyphen"/>ger, to greater Care and Vigilancy for the time to come.</p>
+               <p>It was <hi>Machiavel</hi>'s Obſervation of the <hi>State</hi> of the <hi>Roman Empire,</hi>
+                  <note place="margin">Cum Urbl <hi>Romae,</hi> tanta Imperii mag<g ref="char:EOLhyphen"/>nitudo fatalis effet, opprimi &amp; vehementiſ<g ref="char:EOLhyphen"/>ſime affligi e<g ref="char:EOLhyphen"/>am oportuit, ut deinceps cautior, pru<g ref="char:EOLhyphen"/>dentior<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> fie<g ref="char:EOLhyphen"/>ret ad tantum Imperii mo<g ref="char:EOLhyphen"/>lem acquiren<g ref="char:EOLhyphen"/>dam. <hi>Mach. Diſp.</hi> l. 2 c. 29.</note> That ſeeing it was deſtin'd to ſo much Grandeur, it was convenient that it ſhould be often Oppreſſed and Afflicted, or at leaſt Threat<g ref="char:EOLhyphen"/>ned and Endangered; that her <hi>Rulers</hi> might be<g ref="char:EOLhyphen"/>come more prudent and wary in defending of it, and procuring that greatneſs and ſplendor it was to arrive unto.</p>
+               <p>It was not therefore without reaſon, that St. <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi> thought it neceſſary for thoſe <hi>Heathens,</hi> who <hi>deified</hi> all their Benefactors, to build one <hi>Altar,</hi> and pay ſome Homage to their Enemies, as repu<g ref="char:EOLhyphen"/>ting them one ſort of <hi>Benefactors.</hi> Doubtleſs, they keep not only the Courage, but the Wiſdom of a Nation awake, and make other <hi>Princes,</hi> as they did <hi>David,</hi> more ſafe, by making them leſs ſe<g ref="char:EOLhyphen"/>cure.</p>
+               <p>But as it denoteth the Encreaſe of his Safety: So,</p>
+               <p n="2">2. <hi>Of his Glory and Honour. In the time of trou<g ref="char:EOLhyphen"/>ble,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 27.5.</note> 
+                  <hi>he ſhall hide me in his Pavilion.</hi> Which ſpeaks no leſs the <hi>Obſcurity,</hi> than the <hi>Safety</hi> of his Condi<g ref="char:EOLhyphen"/>tion: But in the time of <hi>Deliverance, He ſhall ſet me up upon a Rock;</hi> as it follows, <hi>my Head ſhall be lifted up, above my Enemies round about me.</hi> It ſpeaks
+<pb n="14" facs="tcp:58737:11"/>the Height and Eminency of his Power and Greatneſs, as Oppoſites illuſtrate one another: The confuſion of his Enemies, makes his Crown flou<g ref="char:EOLhyphen"/>riſh; and his paſt Sufferings, enlarge the Felicities of his preſent Peace, like the Sun's ſhining with a greater clearneſs after an Eclipſe. <hi>God</hi> communi<g ref="char:EOLhyphen"/>cates ſome of his <hi>Glory</hi> with his <hi>Goodneſs,</hi> which leaves a Beauty, Gloſs, or Luſtre, upon the Per<g ref="char:EOLhyphen"/>ſon, like the ſhining of <hi>Moſes his Face,</hi> when <hi>he was with God in the Mount:</hi> And as <hi>he giveth great Deliverance,</hi> and <hi>ſheweth great Mercy,</hi> ſo he giveth great <hi>Glory</hi> to his <hi>King,</hi> to <hi>David,</hi> to his <hi>Anointed.</hi> And he expreſſeth the ſame in the <hi>25th</hi> Verſe of this Pſalm; <hi>Thy hand hath holden me up, and thy gentleneſs hath made me great.</hi> Thy Gentleneſs, the <hi>Septuagint</hi> renders it, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>thy Diſcipline:</hi> and the <hi>Hebrews</hi> derive it, (as Dr. <hi>Hammond</hi> and others have obſerved) from a <hi>Verb,</hi> which ſignifies to <hi>humble</hi> or <hi>depreſs;</hi> plainly intimating, that <hi>Da<g ref="char:EOLhyphen"/>vid</hi>'s diſtreſs and danger, ſet him higher in Honour and Dignity than he was before: His Triumphs made him more glorious than his Tranquillity; and he had never been ſo great in <hi>Chronicle,</hi> if he had paſſed all his days in Peace.</p>
+               <p>With what Shouts and Acclamations of <hi>Iſrael</hi> was he welcomed home from his long Exile? How doth the Pomp of his Reſtauration greaten, pro<g ref="char:EOLhyphen"/>portionably to the Obſcurities and Indignities of his Rejection? Therefore when he thankfully recounts the Divine Mercies in other Deliverances, he ſtiles <hi>God,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 62.7.</note> not only his <hi>Salvation,</hi> but his <hi>Glory,</hi> as be<g ref="char:EOLhyphen"/>fore, <hi>Pſal.</hi> 3.8. <hi>My Glory,</hi> and <hi>the lifter up of my
+<pb n="15" facs="tcp:58737:11"/>Head,</hi> Which juſtifies our note upon this Circum<g ref="char:EOLhyphen"/>ſtance of his <hi>Deliverance</hi> in the Text; <hi>Thou haſt lifted up my Head above thoſe that riſe up againſt me;</hi> that is, Thou haſt given greater Luſtre to the Jew<g ref="char:EOLhyphen"/>els of my <hi>Crown,</hi> and advanced me to greater Ho<g ref="char:EOLhyphen"/>nour in the eyes and eſteem of my <hi>People.</hi>
+               </p>
+               <p>I may add one thing more here, That this lift<g ref="char:EOLhyphen"/>ing up, may ſeem to be a Pledg of his <hi>Heavenly Glory,</hi> and of that never-fading <hi>Crown</hi> which ſhould flouriſh upon his <hi>Head,</hi> when everlaſting Confuſion covereth his Enemies.</p>
+               <p>And thus much for what I thought requiſite to be ſpoken upon the firſt part of my Text, <hi>David</hi>'s great and <hi>glorious Deliverance; great,</hi> in reſpect of the Evils he was delivered from; <hi>great</hi> and <hi>glorious,</hi> in reſpect of the Author, and manner of his Deli<g ref="char:EOLhyphen"/>verance.</p>
+               <p>We come next to</p>
+               <p n="2">II. The ſecond General, <hi>David</hi>'s devout <hi>Acknow<g ref="char:EOLhyphen"/>ledgment of,</hi> and <hi>thankful Return for this his Delive<g ref="char:EOLhyphen"/>rance.</hi>
+               </p>
+               <p>And if we look forward to his form of Thankſ<g ref="char:EOLhyphen"/>giving, we ſhall ſee how congruous and ſuitable it was to the manner of his Deliverance;<note place="margin">
+                     <hi>Pſal.</hi> 30.1.</note> 
+                  <hi>I will extol thee, O Lord, for thou haſt lifted me up, and haſt not made mine Enemies to rejoice over me.</hi> I will extol thee, becauſe thou haſt advanced me; I will <hi>re<g ref="char:EOLhyphen"/>joice in the Lord,</hi> becauſe my Enemies rejoice not over me. But to keep to the Text, we may Ob<g ref="char:EOLhyphen"/>ſerve there,</p>
+               <pb n="16" facs="tcp:58737:12"/>
+               <p>Firſt, His pious and devout Acknowledgment; <hi>I will confeſs unto thee:</hi> So I crave leave to read it, not only becauſe it is ſo rendred by the <hi>Septuagint,</hi> and in the <hi>Vulgar Latin;</hi> but becauſe it removes the ſeeming Tautology of our Tranſlation, and affords ſome diſtinct Matter of uſeful and ſeaſona<g ref="char:EOLhyphen"/>ble Diſcourſe: For it ſeemeth to denote,</p>
+               <p n="1">1. If not <hi>David</hi>'s conviction of the Being, and over-ruling Power of <hi>God,</hi> yet at leaſt a further confirmation of his Faith therein; and in that wiſe and good <hi>Providence,</hi> which intereſteth it ſelf in humane Affairs; and more eſpecially in the order<g ref="char:EOLhyphen"/>ing and governing the <hi>Kingdoms</hi> of the World, and protecting in them his own <hi>Deputies</hi> and Re<g ref="char:EOLhyphen"/>preſentatives; concluding alſo, from ſome nota<g ref="char:EOLhyphen"/>ble Circumſtances in his own Caſe, that <hi>verily</hi> there is a Revenge for the Wicked, as well as a <hi>Re<g ref="char:EOLhyphen"/>ward for the Righteous; Verily there is a God that judgeth in the Earth.</hi>
+               </p>
+               <p n="2">2. It denotes his Reſolution to adhere to this God, and to continue ſtedfaſt in the practice and defence of his true Religion, againſt all Tempta<g ref="char:EOLhyphen"/>tions and Oppoſitions; <hi>I will confeſs unto thee, O Lord, among the Gentiles.</hi> The <hi>Gentiles</hi> them<g ref="char:EOLhyphen"/>ſelves, 'tis true, by that ſmall knowledg which <hi>Sin</hi> had left them, did diſcern ſomewhat of <hi>God</hi> in the moſt ſignal and remarkable Paſſages of his <hi>Providence;</hi> yea, their <hi>Poets</hi> ſung unto, and cele<g ref="char:EOLhyphen"/>brated the Praiſes of their Gods, under the Title of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, The Givers of good Things.</p>
+               <pb n="17" facs="tcp:58737:12"/>
+               <p>The <hi>Roman Captains</hi> having conquered their Ene<g ref="char:EOLhyphen"/>mies,<note place="margin">In gremio Jo<g ref="char:EOLhyphen"/>vis Optimi Maximi depo<g ref="char:EOLhyphen"/>nitur, quoties laetitiam nova victoria attulit. <hi>Plin.</hi> Nat. Hiſt. <hi>lib.</hi> 15. <hi>c.</hi> 30.</note> took part of the <hi>Laurel</hi> wherewith the Trum<g ref="char:EOLhyphen"/>peters were crowned, and laid it in the Lap of <hi>Ju<g ref="char:EOLhyphen"/>piter:</hi> But theſe <hi>Gentiles,</hi> who were <hi>Aliens to the Common-wealth of Iſrael,</hi> were no leſs ſtrangers to <hi>David</hi>'s God, neither did <hi>they glorify him as they ought,</hi> and <hi>were thankful to him.</hi>
+               </p>
+               <p>Nay, in his Trouble and Affliction, they were ready to reproach him, and other true <hi>Iſraelites,</hi> for their truſt in God: for whoever they were, who upon all ſad Occaſions, were ſaying to him, <hi>Where is now thy God?</hi> It is ſaid expreſly, <hi>Pſal.</hi> 44.14. <hi>Thou makeſt us a by word among the Heathen;</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 42.3.</note> And therefore, though his confuſion in other reſpects <hi>was continually before him,</hi> he ſhews, that he was not aſhamed of his God, nor a weary of his Service, by owning him in the ſight of the <hi>Heathen,</hi> who ſo much deſpiſed and diſhonoured him, by their Ido<g ref="char:EOLhyphen"/>latries and vain Superſtitions.</p>
+               <p n="3">3. This <hi>Confeſſion</hi> argueth his confidence in the <hi>Divine</hi> Aid, his dependance upon <hi>God</hi> for help and ſuccour in the like danger. For after this man<g ref="char:EOLhyphen"/>ner his Faith was wont to reaſon, and draw con<g ref="char:EOLhyphen"/>cluſions, from his own and others Experiences:<note place="margin">1 <hi>Sam.</hi> 17.37.</note> 
+                  <hi>The Lord hath delivered me out of the Paw of the Li<g ref="char:EOLhyphen"/>on, and out of the Paw of the Bear; and he will de<g ref="char:EOLhyphen"/>liver me out of the hand of this Philiſtim.</hi> And, <hi>Pſal.</hi> 22.4. <hi>Our Fathers truſted in thee; they truſted, and thou didſt deliver them.</hi> What doth he con<g ref="char:EOLhyphen"/>clude from hence? Why, that <hi>God</hi> would be equal<g ref="char:EOLhyphen"/>ly <hi>gracious,</hi> and <hi>deliver</hi> him too.</p>
+               <pb n="18" facs="tcp:58737:13"/>
+               <p>And indeed, the experience of former <hi>Delive<g ref="char:EOLhyphen"/>rances,</hi> may well give confidence of the continu<g ref="char:EOLhyphen"/>ance of them, that he that <hi>hath, doth,</hi> and <hi>will</hi> ſtill deliver. For to be ſure,</p>
+               <p n="1">1. There can be no failure in his Ability and Power. In Men, there is many times this defect; ſo that we cannot wiſely and ſafely conclude of the one from the other, of future from former kind<g ref="char:EOLhyphen"/>neſs, becauſe their Power and Opportunity, if not their Friendſhip, may ceaſe. But now there is no ſuch fear in reference to <hi>God;</hi> His ſtrength and might never abates; <hi>His Hand is not ſhortned that it cannot ſave, nor his Ear heavy that it cannot hear. Darius</hi> ſet his Heart upon <hi>Daniel</hi> to <hi>deliver</hi> him, and laboured it,<note place="margin">
+                     <hi>Dan.</hi> 6.21.</note> but could not effect it; <hi>but God ſent his Angel, and ſhut the Lions Mouths.</hi> There is like<g ref="char:EOLhyphen"/>wiſe,</p>
+               <p n="2">2. In God a perpetuity of affection; <hi>'Tis of the Lord's Mercy that we are not conſumed, becauſe his Compaſſions fail not.</hi>
+               </p>
+               <p>And it is obſervable, how our good <hi>King glo<g ref="char:EOLhyphen"/>rieth</hi> and flouriſheth in this Confidence, yea, de<g ref="char:EOLhyphen"/>ſpiſeth the Force and Policy of his Enemies there<g ref="char:EOLhyphen"/>upon.<note place="margin">
+                     <hi>Pſal.</hi> 2.1, 2.</note> 
+                  <hi>Why do the Heathen rage, and the People ima<g ref="char:EOLhyphen"/>gine a vain thing?</hi> 'Tis, we know, ſpoken pro<g ref="char:EOLhyphen"/>phetically, of <hi>Chriſt's Kingdom;</hi> but it had a pri<g ref="char:EOLhyphen"/>mary relation to his <hi>own,</hi> as the <hi>Type</hi> of <hi>that.</hi> And he expreſſeth a great aſſurance, that his Throne ſhall ſtand firm and unmoveable; and all the <hi>Plots</hi> and Conſpiracies, the Rage and the Malice of wicked Men againſt it, ſhall prove but <hi>vain Imagi<g ref="char:EOLhyphen"/>nations,</hi> and Impotent Attempts. Thus much for
+<pb n="19" facs="tcp:58737:13"/>
+                  <hi>David</hi>'s <hi>Confeſſion,</hi> and <hi>devout Acknowledgment of God's merciful Deliverance. I will confeſs unto thee, O Lord, among the Gentiles.</hi>
+               </p>
+               <p>I come now to the</p>
+               <p>Second and laſt part, <hi>David</hi>'s <hi>chearful Thanks<g ref="char:EOLhyphen"/>giving; I will ſing of thy praiſe.</hi> The ancient <hi>People of God</hi> were wont to record their ſpecial Mercies and <hi>Deliverances;</hi> as in their <hi>Chronicles,</hi> in the <hi>Names</hi> of their <hi>Children,</hi> and of their <hi>Places;</hi> ſo likewiſe in <hi>Spiritual Songs and Pſalms.</hi> Thus did <hi>Moſes, Iſraels Deliverance</hi> out of <hi>Egypt; Deborah</hi> and <hi>Barak,</hi> their victory over <hi>Siſera,</hi> and <hi>Jabin</hi> King of <hi>Canaan. Iſaiah</hi> pens a <hi>Song</hi> of Thankſgiving be<g ref="char:EOLhyphen"/>fore-hand, for the Peoples return out of Captivity, <hi>Chap.</hi> 26. We have <hi>Hezekiah</hi>'s <hi>Song</hi> too, after re<g ref="char:EOLhyphen"/>covery from his deſperate Sickneſs. But to come home, we have <hi>David</hi> penning this gratulatory <hi>Pſalm,</hi> and ſeveral others; yea, we read elſewhere of <hi>what,</hi> and to <hi>whom</hi> he <hi>ſung;</hi> I will <hi>ſing of Mercy</hi> and <hi>Judgment,</hi> Mercy to my Self, and Judg<g ref="char:EOLhyphen"/>ment to my Enemies; <hi>
+                     <g ref="char:V">Ʋ</g>nto thee,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 101.2.</note> 
+                  <hi>O Lord, will I ſing:</hi> And he danced to his own Pipe, his Practices were Praiſes, and all the Motions of his Life kept time and pace with the Muſick of his Mouth. <hi>I will behave my ſelf wiſely in a perfect way,</hi> &amp;c. He ſhews his Thankfulneſs, not only in a ſuddain Rap<g ref="char:EOLhyphen"/>ture, or paſſionate tranſport of Joy, but in a ſtea<g ref="char:EOLhyphen"/>dy practice of Piety; as appeareth by the following part of that <hi>Pſalm,</hi> where he ſeriouſly reſolves up<g ref="char:EOLhyphen"/>on the well-ordering and governing of himſelf,
+<pb n="20" facs="tcp:58737:14"/>his Family, his <hi>Kingdom,</hi> that he would be holy and upright in his Converſation; that he would ſuffer no notorious wicked Perſon in his <hi>Court;</hi> nay, that he would endeavour to reform, or root out all ſuch out of his Dominions. <hi>I will early deſtroy all the Wicked of the Land, that I may cut off all the evil-doers from the City of the Lord.</hi>
+               </p>
+               <p>I have done now with <hi>David</hi>'s <hi>Thanksgiving,</hi> real as well as vocal; yea, I have done with my <hi>Text</hi> too, as it concerns <hi>his</hi> Caſe; but begin to conſider it as it concerns our <hi>own,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as St. <hi>Paul</hi> ſpeaks, to transfer and apply it to our own <hi>King,</hi> and his <hi>Deliverance;</hi> the Bleſſings we all en<g ref="char:EOLhyphen"/>joy thereby, and which this Day doth juſtly remind us of. And I doubt not but it will be eaſily made appear, how well the <hi>Text</hi> and the <hi>Occaſion</hi> ſuit and agree together; and that there is a manifeſt corre<g ref="char:EOLhyphen"/>ſpondence in the Subject, the Terms, the Author, and the manner of the <hi>Deliverance.</hi> It will behove us to compleat the Parallel by our devout <hi>Confeſſion</hi> and <hi>Thanksgiving;</hi> which I ſhall endeavour to aſſiſt you in, by my <hi>Exhortation</hi> and Perſuaſives at the cloſe of my Diſcourſe.</p>
+               <p>But we are firſt to compare the <hi>Deliverances,</hi> and there to ſhew;</p>
+               <p n="1">1. How they agree in the <hi>Subject:</hi> And here I need not tell you that they were both <hi>Kings,</hi> a<g ref="char:EOLhyphen"/>gainſt whom there is (or at leaſt ſhould be) no riſing up, <hi>Prov.</hi> 30. And that their Monarchical Government was, after the Image of God's Mo<g ref="char:EOLhyphen"/>narchical,
+<pb n="21" facs="tcp:58737:14"/>and ſuch as continued in the World with<g ref="char:EOLhyphen"/>out interruption, for 3000 Years together; yet it is worth your better notice, how much our Gra<g ref="char:EOLhyphen"/>cious Sovereign reſembleth the good King in the Text.</p>
+               <p n="1">1. In his way of <hi>Education;</hi> being trained up, for ſome time, in the ſame School, the <hi>School of Affliction,</hi> where many Princely Vertues are moſt eaſily learned; not only <hi>Piety</hi> and <hi>Patience,</hi> but <hi>Prudence, Caution, Thriſt, Clemency, Modeſty,</hi> and <hi>Moderation</hi> in time of Proſperity.</p>
+               <p>After <hi>David</hi> was King, God would not admit him to the exerciſe of his <hi>Kingly</hi> Power, before he had ſpent ſome Years under this <hi>Diſcipline:</hi> Which was exactly the Caſe of our preſent <hi>Sovereign,</hi> who was no ill Proficient under it, as will appear when we come, by and by, to obſerve his <hi>Royal</hi> Qualifi<g ref="char:EOLhyphen"/>cations: But in the mean time I would note this, That though our <hi>King</hi> was the <hi>Son</hi> of Nobles, and this <hi>Kingdom</hi> the <hi>Inheritance</hi> of his <hi>Father</hi>'s, and his by an indiſputable right of <hi>Succeſſion,</hi> as <hi>Da<g ref="char:EOLhyphen"/>vid</hi>'s was not; yet there was as immediate an Hand of <hi>God</hi> in his <hi>Reſtauration,</hi> as in <hi>David</hi>'s <hi>Advance<g ref="char:EOLhyphen"/>ment.</hi> The <hi>Builders refuſed them</hi> both, and threw them among the Rubbiſh of the People; but <hi>God</hi> in their ſeveral times, made them the <hi>head-Stones of the Corner,</hi> and his Doings were alike viſible, <hi>and wonderful in each of them.</hi>
+               </p>
+               <p>So that by a different, a peculiar, and more in<g ref="char:EOLhyphen"/>timate relation to <hi>Heaven, He</hi> may be ſaid to be <hi>God's King,</hi> and his Anointed, and his Perſon, and
+<pb n="22" facs="tcp:58737:15"/>Power more ſacred and venerable, upon that ad<g ref="char:EOLhyphen"/>vantage of <hi>Royalty.</hi>
+               </p>
+               <p>And if his <hi>Juſtice,</hi> in puniſhing none but the Violaters of his <hi>Laws;</hi> or his <hi>Mercy,</hi> in pardoning ſo many of them; If his <hi>Prudence</hi> in Govern<g ref="char:EOLhyphen"/>ment, or his condeſcending <hi>pleaſantneſs</hi> in Con<g ref="char:EOLhyphen"/>verſation; Nay, if above all, His <hi>Conſtancy in the true Religion,</hi> are any ways apt to ſtrengthen <hi>Loyalty,</hi> or ſweeten <hi>Obedience,</hi> He is in all theſe another <hi>David:</hi> And I give you this tranſient view of them, to render the Villany of his <hi>Ene<g ref="char:EOLhyphen"/>mies,</hi> black and horrid as <hi>Hell</hi> it ſelf, without Plea or Paint, without the mixture of any fair Colour, the leaſt degree of excuſe or mitigation. Which brings me to the ſecond thing in the <hi>Pa<g ref="char:EOLhyphen"/>rallel.</hi>
+               </p>
+               <p n="2">2. The <hi>Evils our David</hi> was delivered from, and they too were <hi>Enemies,</hi> and <hi>Sons of Violence.</hi>
+               </p>
+               <p n="1">1. Enemies of all Sorts, of ſeveral Countries, of all Ranks and Qualities. <hi>Gebal,</hi> and <hi>Ammon,</hi> and <hi>Amalek; Roman, Engliſh,</hi> and <hi>Scotch</hi> Enemies. Enemies of the Hills, and of the Valleys; Enemies of high, as well as hot Blood; <hi>Princes, Nobles, Commons,</hi> and <hi>Mechanicks.</hi>
+               </p>
+               <p>Yea, the <hi>Enemies</hi> of our <hi>Lord the King,</hi> ſeem to reſemble thoſe of our <hi>Lord Chriſt,</hi> the Spiritual <hi>David; Soribes, Phariſees, Sadduces;</hi> Lawyers, <hi>Preachers, Hobbiſts,</hi> who ſay there is <hi>neither Angel,</hi> nor <hi>Spirit;</hi> and by an eaſy Conſequence, neither <hi>God,</hi> nor <hi>Devil.</hi>
+               </p>
+               <pb n="23" facs="tcp:58737:15"/>
+               <p>Preciſians, and Zealots, who would engroſs all <hi>Religion;</hi> and prophane diſſolute Perſons, who profeſs <hi>none.</hi> And it is very obſervable, that theſe ſort of Men had a large ſhare in the late Damna<g ref="char:EOLhyphen"/>ble <hi>Conſpiracy.</hi> And the Character which <hi>Euſebius</hi> long ago gave their Forefathers in <hi>Infidelity,</hi> fits them exactly well; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, A Confederacy, Band, or <hi>Club,</hi> of Atheiſtical De<g ref="char:EOLhyphen"/>ceit, Men throughly <hi>Antimonarchical,</hi> who can no more endure a <hi>God</hi> in Heaven, than a <hi>King</hi> upon Earth.</p>
+               <p>He had <hi>Preaching, Petitioning, Voting, Aſſocia<g ref="char:EOLhyphen"/>ting</hi> Enemies; ſuch as, if you would believe them, hated only <hi>Arbitrary Power,</hi> dreaded <hi>Popery,</hi> ſtickled for <hi>Legal Privileges;</hi> and had no worſe Deſign in ſeizing the <hi>King's Guards,</hi> than the Defence of his <hi>Perſon,</hi> the Reformation of his <hi>Council</hi> and <hi>Ma<g ref="char:EOLhyphen"/>giſtracy,</hi> and the Security of <hi>Religion;</hi> by finding out a better <hi>Succeſſor</hi> to the Crown, than God had yet provided.</p>
+               <p>But we may conclude, from very ill Effects of the like demure and plauſible Pretences to the <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> how much Miſchief was intended the <hi>Son,</hi> even by the ſame ſort of Men, who thus palliate <hi>Treaſon,</hi> ſpeak Peace to their Neighbours, and are ready, upon all Occaſions, to ſuggeſt to them, that it is only their Love to their <hi>Country,</hi> and their Zeal for their <hi>Religion,</hi> which brings their <hi>Loyalty</hi> into ſuſpicion. Whereas in truth, with all their fair Profeſſions of their own Innocence, and good Affection to the <hi>Government,</hi> they take all Oppor<g ref="char:EOLhyphen"/>tunities, either ſecretly to whiſper falſe Fears and
+<pb n="24" facs="tcp:58737:16"/>Dangers into their Neighbours Heads; or elſe to fill them with open Complaints and Invectives a<g ref="char:EOLhyphen"/>gainſt the Remiſneſs of ſome, or the Rigor of others, in Publick Places, till at laſt they ſo poiſon and enrage their ſhallow Admirers, that they are ready, upon the firſt Occaſion, to break out into open Hoſtility; and to break through all Difficul<g ref="char:EOLhyphen"/>ties and Dangers, to accompliſh their Bloody Pur<g ref="char:EOLhyphen"/>poſes; and ſo to become the other ſort of Ene<g ref="char:EOLhyphen"/>mies we ſpoke of; if not more dangerous, yet more daring and <hi>violent,</hi> who are all for <hi>killing,</hi> and <hi>ta<g ref="char:EOLhyphen"/>king poſſeſſion.</hi>
+               </p>
+               <p>Who are for <hi>ſmiting</hi> the <hi>King;</hi> but not the <hi>King</hi> only, as <hi>Achitophel</hi> was, but will have his <hi>deareſt</hi> and <hi>only Brother,</hi> his prime <hi>Counſellors, Judges, Magiſtrates,</hi> to ſhare his Fate: And in their <hi>breathings out of Slaughter,</hi> ſaying with that Enemy, <hi>Exod.</hi> 15.9. <hi>We will purſue, we will over<g ref="char:EOLhyphen"/>take, we will divide the Spoil; Our Luſt ſhall be ſa<g ref="char:EOLhyphen"/>tisfied on them; we will draw our Sword, and our Hand ſhall deſtroy them.</hi> Sure theirs would have been the <hi>Luſt</hi> indeed, the Sport and Wantonneſs of Cruelty, to have killed, and flayed, and ſtifled, as in their Revenge and Rage they pro<g ref="char:EOLhyphen"/>pounded.</p>
+               <p>The <hi>Jeſuited Papiſt,</hi> that Man of Blood and Maſſacre, to be ſure will be preſently taken upon ſuſpicion for <hi>the Violent Man</hi> in our Caſe; and upon a through-examination of his Principles and Practices in our own <hi>Kingdom,</hi> and that not only in the days of our <hi>Fathers,</hi> but in this preſent Age, we can by no means acquit him. He had his
+<pb n="25" facs="tcp:58737:16"/>Head and Hand deep enough in the <hi>Popiſh Plot,</hi> and no doubt acts ſtill a ſubtil and ſpightful part among the ſeveral <hi>Sects</hi> of our Diſſenters.</p>
+               <p>But in good earneſt, they deal a little too hard<g ref="char:EOLhyphen"/>ly with him, who would lay this <hi>Plot</hi> too at his Door, and give out, That thoſe very Men, who open ſo loud againſt <hi>Popery,</hi> and will never be gotten off of that haunt, are themſelves <hi>Papiſts:</hi> But the folly of this ſetting the <hi>Devil</hi> againſt him<g ref="char:EOLhyphen"/>ſelf, and making <hi>Satan</hi> to caſt out <hi>Satan,</hi> is mani<g ref="char:EOLhyphen"/>feſt to all Men, whoſe Reaſon and Knowledg is not as <hi>implicit</hi> and <hi>blind,</hi> as the <hi>Papiſt</hi>'s Faith and Obedience.</p>
+               <p>Methinks they had better try whether they can<g ref="char:EOLhyphen"/>not help their Cauſe a little, by making the <hi>Iniquus Homo</hi> in the <hi>Text,</hi> the ſame with the <hi>Inimicus Ho<g ref="char:EOLhyphen"/>mo,</hi> the <hi>Envious Man</hi> in the Goſpel, as St. <hi>Hierom</hi> doth; and ſo ſhift off the <hi>Plot,</hi> not to the <hi>Jeſuit,</hi> but to the <hi>Devil</hi> himſelf, their common Counſellor and Prompter.</p>
+               <p>The <hi>King</hi> knows, and we all know very well who our <hi>Violent Men</hi> were: The great complai<g ref="char:EOLhyphen"/>ners of <hi>Violence</hi> and Oppreſſion, the True <hi>Prote<g ref="char:EOLhyphen"/>ſtants,</hi> that ſeldom or never came to <hi>Church,</hi> or at leaſt came not to our Solemn <hi>Prayers,</hi> or came not up to the <hi>heights</hi> of our <hi>Regular Service.</hi>
+               </p>
+               <p>Such whom Indulgence and <hi>Toleration</hi> had em<g ref="char:EOLhyphen"/>boldned to rebel for Dominion, and to abuſe their Liberty of <hi>Aſſembling</hi> for <hi>Devotion,</hi> to meet together for War. In a word, a ſort of <hi>Fanatick</hi> Miſcreants, who were as far from being <hi>true Prote<g ref="char:EOLhyphen"/>ſtants,</hi> as they were from being <hi>good Subjects.</hi>
+               </p>
+               <pb n="26" facs="tcp:58737:17"/>
+               <p>And it is <hi>God</hi> that hath in good meaſure <hi>avenged</hi> our <hi>David of theſe Violent Men.</hi> One fell by the Hand of <hi>God;</hi> Another by his <hi>Own:</hi> Some have ſuffered the Juſtice of the <hi>Nation;</hi> ſome are fled from it, and the reſt are reſerved in <hi>Cuſtody;</hi> where we leave them to the <hi>Juſtice</hi> of the <hi>Law,</hi> and the <hi>Mercy</hi> of <hi>God:</hi>
+               </p>
+               <p>And proceed to the</p>
+               <p n="3">3. Third Particular; The Author of the <hi>King</hi>'s and the Nations Deliverance from them. <hi>God is ſeen indeed</hi> in the <hi>Judgments</hi> that <hi>he</hi> executes; but they are his <hi>ſtrange Work,</hi> which he delights not in: But <hi>Mercy</hi> is his Darling <hi>Attribute,</hi> moſt natu<g ref="char:EOLhyphen"/>ral and proper to him, as I may ſo ſpeak, and he glorieth moſt in it. Puniſhment is an Act of Power; but Protection and Mercy, are the Works of Honour: And therefore <hi>Princes</hi> depute their Adminiſtration of <hi>Juſtice,</hi> and their Power of puniſhing, to their Officers; but <hi>Acts</hi> of Grace and Pardon, they reſerve to themſelves, as a more ſacred Impreſs, and more immediate Character of <hi>Royalty.</hi>
+               </p>
+               <p>In like manner, <hi>God,</hi> who is glorious in all his <hi>Attributes,</hi> ſingles out his <hi>Goodneſs,</hi> his Acts of Protection and Deliverance, as the moſt eminent diſplays of his <hi>Glory</hi> and <hi>Greatneſs.</hi> For when <hi>Moſes</hi> deſired to ſee his Majeſty in its moſt ample extent, in all its <hi>Pomp</hi> and <hi>Grandeur,</hi> he only cauſed his <hi>Goodneſs</hi> to paſs before him. And as his Glory is ſeen more or leſs in every Act of his <hi>Good<g ref="char:EOLhyphen"/>neſs,</hi>
+                  <pb n="27" facs="tcp:58737:17"/>ſo it ſhines out fully in the preſervation or deliverance of good and great Men, who are Publick Bleſſings; in whoſe Sufferings, and in whoſe Salvation ſo many partake, as being the <hi>Shields,</hi> the Supporters and <hi>Foundations</hi> of a <hi>Na<g ref="char:EOLhyphen"/>tion,</hi> in the <hi>Scripture</hi>-Alluſions. And ſeeing the <hi>Shields of the Earth belong to God,</hi> as in regard of their Honour and Office, ſo in regard of <hi>God</hi>'s ſpecial care of, and watchful Providence over them, (He being their Shield, as they are ours) ſome Beam or Ray of the Divine <hi>Soveraignty</hi> ſeem<g ref="char:EOLhyphen"/>eth to be <hi>eclipſed</hi> in their Dangers; but all its <hi>Glory</hi> breaks forth in their <hi>Deliverance.</hi>
+               </p>
+               <p>As all <hi>Kings</hi> are <hi>God</hi>'s Kings, and his <hi>Anointed</hi> by Name and Office, by ſpecial Propriety and Re<g ref="char:EOLhyphen"/>preſentation; So the <hi>King</hi> in the <hi>Text,</hi> and our <hi>King,</hi> are his, by moſt ſignal and eminent Preſer<g ref="char:EOLhyphen"/>vations, Protections, and <hi>Deliverances;</hi> ſuch as proclaim their <hi>Divine Author,</hi> preach <hi>God</hi> to an unbelieving World, and give him all the <hi>viſibility</hi> that his Nature is capable of.<note place="margin">
+                     <hi>Pſal.</hi> 58.11.</note> So <hi>that a Man</hi> (any Man, a mere Man, one that hath none but the light of Natural Reaſon to ſee by) <hi>may ſay, Verily there is a God that judgeth in the Earth.</hi>
+               </p>
+               <p>However, that taking Title of <hi>Liberatores Pae<g ref="char:EOLhyphen"/>triae,</hi> The <hi>Saviours</hi> of their <hi>Country,</hi> ſhould have been miſapplied, to the Murderers of their <hi>King; God</hi> hath been really our <hi>Juvans Pater,</hi> our migh<g ref="char:EOLhyphen"/>ty Helper in diſtreſs, the <hi>Father</hi> and Author of his <hi>Majeſty's Deliverances,</hi> in a moſt apparent manner,
+<pb n="28" facs="tcp:58737:18"/>at ſeveral times, and by various means, I had almoſt ſaid <hi>Miracles.</hi>
+               </p>
+               <p>And if we do not trace the <hi>Providence</hi> of <hi>God</hi> in relation to him, ſo far back as his wonderful eſcape at <hi>Worceſter;</hi> We muſt reflect upon it in his coming home from <hi>Exile,</hi> becauſe perhaps we have not yet, in the Story of any Times, at leaſt not of our own <hi>Nation,</hi> a more plain diſcovery of the <hi>Hand of God;</hi> a more convincing demonſtra<g ref="char:EOLhyphen"/>tion,<note place="margin">
+                     <hi>Dan.</hi> 4.32.</note> 
+                  <hi>That the moſt High ruleth in the Kingdom of Men, and giveth it to whomſoever he will.</hi> And, I hope, it may help to promote the Joy and Thankſ<g ref="char:EOLhyphen"/>giving of this <hi>preſent Day,</hi> and to confirm our Faith in the <hi>Divine Power</hi> and <hi>Mercy.</hi> If we call to mind his <hi>Wonders</hi> of <hi>Old,</hi> particularly that great <hi>Miracle</hi> of his <hi>Majeſty's Reſtauration;</hi> A Work which was accompliſhed by <hi>the Arm of God made bare,</hi> deveſted of all Humane Aſſiſtance. For our <hi>Gracious King</hi> (whom God keep-long there) was not poſſeſſed of his <hi>Throne,</hi> until his Friends had in vain tried all ways to reſtore him, and his Ene<g ref="char:EOLhyphen"/>mies eſſayed whatſoever their utmoſt Malice and Cunning could ſuggeſt againſt him: A formidable and ſuccesful Army was ſcattered without a Blow; a Victory obtained without Fighting; the <hi>Enmity</hi> ſlain without the Wounds of our <hi>Enemies:</hi> Ter<g ref="char:EOLhyphen"/>rible things, which we looked not for, were wrought for us by the Hand of the <hi>Almighty;</hi> in a kind of Parallel and Proportion to the Deliverance of <hi>Iſrael</hi> at <hi>the Red Sea; We all ſtood ſtill, and ſaw the Salva<g ref="char:EOLhyphen"/>tion of God.</hi>
+               </p>
+               <pb n="29" facs="tcp:58737:18"/>
+               <p>And truly, whilſt we conſider the indefatigable and crafty Endeavours of the <hi>Popiſh</hi> Faction ever ſince, to introduce <hi>their Religion,</hi> either by laying aſide, or taking off <hi>[quâcunque arte, omni-ratione]</hi> an <hi>Heretical Prince,</hi> as they eſteem ours. And on the other hand, whilſt we conſider the menacing Ambition and Revenge of others, whom I would rather call <hi>Proteſtors</hi> than <hi>Proteſtants,</hi> the Inte<g ref="char:EOLhyphen"/>reſt they had in the factious enraged Multitude, whom they had ſtirred up, as <hi>Corah, Dathan,</hi> and <hi>Abiram,</hi> did the People againſt <hi>Moſes</hi> and <hi>Aaron;</hi> and the aſſiſtance they had from their many <hi>Preachers</hi> of <hi>Sedition,</hi> who in their ſeveral Quar<g ref="char:EOLhyphen"/>ters, or <hi>Congregations,</hi> like <hi>Sheba</hi> the Son of <hi>Bichri,</hi> blew a Trumpet, and ſaid, <hi>We have no part in</hi> Da<g ref="char:EOLhyphen"/>vid, <hi>neither have we any portion in the Son of</hi> Jeſſe: Or like the <hi>Gracchi</hi> at <hi>Rome,</hi> who could talk the People into <hi>Mutiny</hi> at their pleaſure. Or, laſtly, like <hi>Demetrins</hi> the <hi>Silver-ſmith,</hi> who by one <hi>Sedi<g ref="char:EOLhyphen"/>tious</hi> Oration, <hi>filled with <g ref="char:V">Ʋ</g>proar the whole City of Epheſus.</hi>
+               </p>
+               <p>Again, whilſt we conſider how many Seditious and Scurrilous Pamphlets were put into truſty Hands, who were ready to lend them to ſome, and talk them over to others, with their own Ad<g ref="char:EOLhyphen"/>ditions and Remarks, for the more effectual <hi>pro<g ref="char:EOLhyphen"/>moting Rebellion</hi> and <hi>Treaſon</hi> throughout the Land, for the conjuring up of thoſe <hi>Venti Typhonici,</hi> reſtleſs and <hi>violent</hi> Spirits, whoſe work it is to <hi>take Peace from the Earth,</hi> and to caſt all into Con<g ref="char:EOLhyphen"/>fuſion.</p>
+               <pb n="30" facs="tcp:58737:19"/>
+               <p>Once more; Whilſt we conſider the great ſpreading of that Malignant <hi>Popiſh</hi> Principle, even amongſt our <hi>True Proteſtants,</hi> (as they loved to call themſelves) That <hi>Finis dat, non tantum ama<g ref="char:EOLhyphen"/>bilitutem, ſed bonitatem mediis;</hi> and that we <hi>may do Evil</hi> that Good may come of it; that we need not ſtick at any thing, though never ſo lawleſs and <hi>violent,</hi> for that which we think to be <hi>God</hi>'s Cauſe, and the Intereſt of <hi>Religion;</hi> I ſay, whilſt we conſider the variety of the Enemies of the <hi>Go<g ref="char:EOLhyphen"/>vernment,</hi> their Quality, Number, Strength; their Stratagems, Aſſociations, Conſpiracies, we cannot but diſcover <hi>Miracles</hi> of the <hi>Divine</hi> Power and Goodneſs in our <hi>King</hi>'s continued Defence and Preſervation; only ſhort, if ſhort at all, of thoſe of his happy Return to us from a tedious <hi>Exile.</hi>
+               </p>
+               <p>Yea, what a viſible ſignal Hand of <hi>Providence</hi> was there in his, and the <hi>Kingdom</hi>'s <hi>Deliverance</hi> from this Plot, the moſt barbarous and bloody that was ever laid ſince the <hi>Gun-powder Treaſon!</hi> For how much of Accident and Caſualty ſoever there appeared to be at firſt in the Fire at <hi>Newmarket,</hi> we cannot but conclude, by the happy Event, that <hi>God was in the midſt of that Fire;</hi> and that it was not kindled ſo much in Judgment to the particular Sufferers, as in Mercy to the <hi>King,</hi> and to the whole Nation; a Fire of <hi>Defence,</hi> and not of <hi>De<g ref="char:EOLhyphen"/>ſtruction:</hi> And we may ſay, <hi>We were delivered</hi> (without a Compariſon, without a ſo as) by Fire.</p>
+               <pb n="31" facs="tcp:58737:19"/>
+               <p>God, who is ſometimes ſaid to make his <hi>Angel-Miniſters a Flame of Fire,</hi> may by as eaſy a Figure, be ſaid to have made that <hi>flaming Fire,</hi> a Guardian <hi>Angel,</hi> a <hi>Miniſter</hi> of Preſervation to the King and Kingdom; And that when the Conſpirators were ready to ſeize upon the <hi>Royal Prey,</hi> and di<g ref="char:EOLhyphen"/>vide the Spoil, crying out with <hi>David</hi>'s Enemies; <hi>Ah, ſo would we have it; perſecute and take him,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 71.11.</note> 
+                  <hi>for there is none to deliver.</hi>
+               </p>
+               <p>And methinks 'tis ſtrange, that the <hi>Plotters</hi> of, and Well-wiſhers to that <hi>hateful Iniquity,</hi> ſhould not be more forward to give <hi>glory to God,</hi> who hath <hi>ſpoken to them out of the Fire;</hi> and that in ſo re<g ref="char:EOLhyphen"/>markable a Circumſtance of their Defeat, they ſhould not be more ready to own the Eye and Hand of that <hi>God,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 33.10.</note> who <hi>bringeth the Counſel of the Heathen to nought, and maketh the Devices of the People to be of none effect.</hi>
+               </p>
+               <p>Strange! that they ſhould be no more ready to acknowledg with us,<note place="margin">
+                     <hi>Pſal.</hi> 37.39.</note> That <hi>the Salvation of the Righ<g ref="char:EOLhyphen"/>teous is of the Lord;</hi> and <hi>that he is their ſtrength in the time of Trouble.</hi> That it is <hi>he that avengeth our King;</hi> he <hi>that ſubdueth the People;</hi> he that <hi>deli<g ref="char:EOLhyphen"/>vereth</hi> him <hi>from his Enemies,</hi> and <hi>from the Violent Man.</hi>
+               </p>
+               <p>But ſo much for the <hi>Author</hi> of this <hi>Deliverance,</hi> the <hi>God of our Salvation.</hi>
+               </p>
+               <p n="4">4. For <hi>the manner of it;</hi> It was a <hi>Defence</hi> and a <hi>Dignity,</hi> as well as a <hi>Deliverance.</hi>
+               </p>
+               <pb n="32" facs="tcp:58737:20"/>
+               <p n="1">1. It was <hi>a Defence. God</hi> hath made it a new Settlement to his <hi>Throne;</hi> an addition of Strength and Security to his Empire, by waſhing off the Paints, the Colourings, and Counterfeits, both of <hi>Religion</hi> and <hi>Loyalty;</hi> ſhewing him who are <hi>True Proteſtants,</hi> and who are <hi>Falſe Brethren;</hi> who are good <hi>Subjects,</hi> and who are Movers of <hi>Sedition,</hi> and inordinate <hi>Seekers</hi> of <hi>Preheminence.</hi> In a word, who are the Friends, and who are the Enemies, not only of the <hi>Succeſſion,</hi> but of the <hi>Monar<g ref="char:EOLhyphen"/>chy.</hi>
+               </p>
+               <p>Yea, <hi>God</hi> by this <hi>Deliverance,</hi> hath told our <hi>King,</hi> and his <hi>Magiſtrates,</hi> as by a Voice from Hea<g ref="char:EOLhyphen"/>ven, how much it concerns them to keep a watch<g ref="char:EOLhyphen"/>ful Eye, and a ſtrict Hand, upon Men of ſuch lewd, looſe, and dangerous Principles; to mark their Motions, obſerve their Tendencies, and by prudent and timely Reſtraints, to ourb the firſt ſtirrings of <hi>Rebellion.</hi> Yea, from the miſcarriage of this Attempt, we may conceive ſome good rea<g ref="char:EOLhyphen"/>ſon to hope,<note place="margin">
+                     <hi>Pſal.</hi> 36.12. <hi>Pſal.</hi> 37.15.</note> that <hi>the Workers of Iniquity are</hi> already <hi>fallen,</hi> and <hi>are ſo caſt down, that they ſhall not be able to riſe. Their Sword ſhall enter into their own Heart, and no weapon formed againſt us ſhall proſper; But the Tranſgreſſors ſhall be deſtroyed together,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 37.38. <hi>Iſa.</hi> 60.18.</note> 
+                  <hi>and the end of the Wicked ſhall be cut off; and ſuch Vio<g ref="char:EOLhyphen"/>lence be no more heard in our Land.</hi>
+               </p>
+               <p>We have reaſon to hope, that <hi>God who hath</hi> graciouſly <hi>delivered the Soul of our King</hi> from this <hi>Death,</hi> alſo hath now <hi>delivered his feet from falling;</hi> that he hath not only <hi>ſtilled the Raging of the Sea,
+<pb n="33" facs="tcp:58737:20"/>the Noiſe of the Waves,</hi> the <hi>Tumults of the People;</hi> but thereby brought our <hi>Soveraign</hi> into his Haven: And that the Winds and Storms which ſo lately ſhook and threatned our <hi>Royal Oak,</hi> have only ſet<g ref="char:EOLhyphen"/>led it, and given it a ſurer and firmer rooting; and that our Government ſtands upon a more ſta<g ref="char:EOLhyphen"/>ble and durable Baſis than heretofore, if God ſo pleaſe.</p>
+               <p n="2">2. We may look upon the <hi>Deliverance,</hi> for which we <hi>bleſs God this Day;</hi> not only as an occaſion of mending our <hi>Fences,</hi> of <hi>ſtrengthning our Gates,</hi> and our Guards, and conſequently re-eſtabliſhing of our <hi>King's Throne;</hi> but alſo as a means in the good Hand of God, of enlarging his <hi>Dignity</hi> and <hi>Great<g ref="char:EOLhyphen"/>neſs; God</hi> thereby encreaſing his Glory, bringing forth his <hi>Righteouſneſs</hi> as <hi>the Light,</hi> and his <hi>Judg<g ref="char:EOLhyphen"/>ment</hi> as <hi>the Noon-Day;</hi> making his <hi>Majeſty</hi> more terrible in the Eyes of his Enemies; more dear and honourable in the Hearts of his Friends, as a new Bleſſing from the Hand of <hi>God</hi> our <hi>Saviour.</hi>
+               </p>
+            </div>
+            <div n="2" type="sermon">
+               <pb facs="tcp:58737:21"/>
+               <pb n="35" facs="tcp:58737:21"/>
+               <head>SERMON II.</head>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>PSALM 18.49.</hi>
+                     </bibl>
+                     <p>Therefore will I give thanks unto thee, <hi>(or con<g ref="char:EOLhyphen"/>feſs unto thee)</hi> O Lord, among the Hea<g ref="char:EOLhyphen"/>then; and ſing Praiſes unto thy Name.</p>
+                  </q>
+               </epigraph>
+               <p>
+                  <seg rend="decorInit">W</seg>E have heard what are the Mercies, and manifold Advantages of our <hi>King's Deliverance;</hi> We are to ſee next, What is to be the Return of his and our <hi>Devotion:</hi> Yea, we are taught already, by the <hi>Royal</hi> Pat<g ref="char:EOLhyphen"/>tern in the <hi>Text,</hi> it muſt conſiſt of two parts.</p>
+               <list>
+                  <item>I. <hi>An humble Confeſſion.</hi>
+                  </item>
+                  <item>II. <hi>A ſolemn Thanksgiving.</hi>
+                  </item>
+               </list>
+               <p>I am not here to tell you the <hi>King</hi>'s Duty, but our own, by his <hi>pious Declaration,</hi> and his appoint<g ref="char:EOLhyphen"/>ment of this Day's Solemnities: He hath told us himſelf, That he very well underſtandeth it, and will be our great Example in his religious perfor<g ref="char:EOLhyphen"/>mance thereof.</p>
+               <pb n="36" facs="tcp:58737:22"/>
+               <p>When <hi>David</hi> kept a Faſt, all the People took notice of it,<note place="margin">2 <hi>Sam.</hi> 3.36.</note> and it <hi>pleaſed them,</hi> they were deligh<g ref="char:EOLhyphen"/>ted to do as their <hi>King</hi> did. And it is the happineſs of this Day, which we now celebrate, and we ought thankfully to acknowledg, that we may bleſs <hi>God</hi> in our <hi>Congregations,</hi> from the Example of the <hi>Court,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 68.26.</note> and the <hi>King, the Fountain of Iſrael.</hi> And that,</p>
+               <p>Firſt; By ſuch a Confeſſion unto him, as im<g ref="char:EOLhyphen"/>plieth,</p>
+               <p n="1">1. An acknowledging and owning, though not by a new, yet by a repeated and renewed Ho<g ref="char:EOLhyphen"/>mage, the <hi>Infinite Being, Power,</hi> and <hi>Providence of God;</hi> that <hi>the Lord liveth,</hi> and <hi>that to him belong the Iſſues from Death. That Power belongeth unto him; and in the Lord</hi> Jehovah <hi>is everlaſting ſtrength.</hi> That he is able, not only to work, but to com<g ref="char:EOLhyphen"/>mand; not only to command, but to create Deli<g ref="char:EOLhyphen"/>verance, and fetch it out of the greateſt diſtreſs and deſolation, when <hi>there is none to help,</hi> or <hi>vain is the help of Man.</hi> That he <hi>goeth forth in his ſtrength, conquering, and to conquer: That he hath repayed Fury to our. Adverſaries, and Recompence to our Enemies;</hi> given <hi>Salvation</hi> to our <hi>Prince,</hi> and <hi>delivered</hi> Charles <hi>his Servant from the murthering</hi> Blunderbuſs.</p>
+               <p>
+                  <hi>God,</hi> who <hi>dwelleth</hi> in a <hi>Light inacceſſible,</hi> which neither the Eyes of our Senſe or Reaſon can bear; doth yet, after a ſort; ſhew himſelf in this lower World to pious Obſervers, in the ordinary effects of his Wiſdom, Power, and Mercy: But is much
+<pb n="37" facs="tcp:58737:22"/>more viſible in ſuch extraordinary <hi>Acts</hi> of Prote<g ref="char:EOLhyphen"/>ction and <hi>Deliverance,</hi> as this which we now cele<g ref="char:EOLhyphen"/>brate; upon this there are ſuch ſpecial impreſſes of <hi>Divinity,</hi> that we muſt be ſenſleſs and ſtupid, at leaſt Irrational as well as Irreligious, if we do not ſee and own <hi>God</hi> in it; if we do not <hi>regard the Lord in ſuch Works;</hi> conſider and <hi>acknowledg him in ſuch wonderful Operations of his hands.</hi>
+               </p>
+               <p n="2">2. This <hi>Confeſſion</hi> implieth, a ſtedfaſt adherence to God; a <hi>walking</hi> in <hi>his</hi> Name, being <hi>faithful</hi> to his Covenant, conſtant in his <hi>Religion,</hi> zealous for his Glory, in the midſt of the greateſt temptati<g ref="char:EOLhyphen"/>ons to <hi>Apoſtacy. We muſt confeſs him among the Heathen.</hi>
+               </p>
+               <p>When the King, like that religious <hi>Emperor,</hi> ſets his <hi>Crown</hi> upon the Bible, and the <hi>Power</hi> of the Prince, is a guard and ſupport to the Power of <hi>Godlineſs;</hi> when the profeſſion of the True Reli<g ref="char:EOLhyphen"/>gion maketh us Rich and Honourable in the World, and all about us are ready to commend, encou<g ref="char:EOLhyphen"/>rage, and wiſh us good Luck in the <hi>Name of the Lord; God</hi> will want no <hi>Votaries,</hi> none to make <hi>their boaſts of him,</hi> and <hi>to tell of all his marvellous Acts.</hi>
+               </p>
+               <p>When God cauſeth the South Wind to blow up<g ref="char:EOLhyphen"/>on his <hi>Garden,</hi> and the <hi>Sun</hi> of Proſperity to ſhine gently upon his Field, the <hi>Church,</hi> the <hi>ſhallow-rooted Corn</hi> will put forth, and ſpring up as faſt as the reſt; but it cannot abide unſeaſonable Weather, too much Heat or Cold nips or blaſts it.</p>
+               <p>Every one will be a <hi>Saint,</hi> when Religion is in Credit, and <hi>Godlineſs is Gain;</hi> but when <hi>Tribula<g ref="char:EOLhyphen"/>tion
+<pb n="38" facs="tcp:58737:23"/>or Perſecution ariſeth, becauſe of the Word, by</hi> and <hi>by,</hi> many <hi>are offended,</hi> and ſlink away from a perillous Profeſſion.</p>
+               <p>Such were the <hi>Samaritans,</hi> that when the <hi>Jews</hi> were in proſperity, would profeſs themſelves to be of the <hi>Jewiſh Religion;</hi> but when the <hi>Jews</hi> were in Adverſity, would diſclaim <hi>them</hi> and <hi>their Reli<g ref="char:EOLhyphen"/>gion.</hi> Such were thoſe wavering <hi>Time-ſervers,</hi> who were <hi>Proteſtants</hi> in King <hi>Edward</hi>'s Reign, <hi>Papiſts</hi> in Queen <hi>Mary</hi>'s, and as <hi>true Proteſtants</hi> again as ever in Queen <hi>Elizabeth</hi>'s Days. And many ſuch there are now among us, whoſe <hi>Religion</hi> is their In<g ref="char:EOLhyphen"/>tereſt; <hi>who are wiſe to underſtand the Times,</hi> and to ſave their Purſes.</p>
+               <p>But if Worldly Conſiderations make other Men <hi>Converts, God</hi> grant they may never make us <hi>Apo<g ref="char:EOLhyphen"/>ſtates:</hi> That neither the <hi>ſpoiling,</hi> nor the encreaſe of <hi>our Goods,</hi> may move us from our <hi>Chriſtian</hi> Sted<g ref="char:EOLhyphen"/>faſtneſs and Reſolution. It is ſtoried of a <hi>famous Nobleman,</hi>
+                  <note place="margin">Hormiſdas.</note> who when he was depoſed from all his Honours, becauſe he would not forſake his <hi>Reli<g ref="char:EOLhyphen"/>gion,</hi> and afterwards reſtored to them again, as a new Temptation to renounce it; He gave this re<g ref="char:EOLhyphen"/>ſolute Anſwer to the King of <hi>Perſia, Si propter iſta me denegaturum Chriſtum putas, iſta denuo accipe;</hi> If you think I value my Honours above Chriſt, pray take them from me again. We have another In<g ref="char:EOLhyphen"/>ſtance, not altogether unlike this, in St. <hi>Baſil;</hi> The <hi>Emperor</hi> ſent to him to ſubſcribe the <hi>Arrian</hi> Hereſy;<note place="margin">Theod.</note> and ordered his Agent to treat him, at firſt, with fair and enticing Speeches, and the pro<g ref="char:EOLhyphen"/>miſe of great Preferments: which he did; but to
+<pb n="39" facs="tcp:58737:23"/>them the good Man replied, Alas! theſe are Arts to inveigle Children; but we that are nouriſhed and taught by the <hi>Holy Scriptures,</hi> are readier to ſuffer a thouſand Deaths, than to renounce one <hi>Article</hi> of our <hi>Creed.</hi> And when he that dealt with him, pro<g ref="char:EOLhyphen"/>ceeded from Entreaties to Increpations, and told him, He was mad; his meek return was, <hi>Opto me in aeternum ſic delirare,</hi> God grant I may be always thus mad, that neither Enmity nor Friendſhip, Fears nor Hopes, may move me, or draw me off from bearing Teſtimony to the Truth of <hi>Jeſus.</hi>
+               </p>
+               <p>We do not, we cannot confeſs to God aright, if we are not as ready to own him, and glory in him, among his Enemies, as among his Friends; when the Profeſſion and Practice of the True <hi>Religion</hi> of our <hi>Saviour,</hi> ſhall bring us to taſte of his bitter Cup; and we ſhall be hated of all, that is, of the generality of Men, for his <hi>Name</hi>'s ſake, for adhe<g ref="char:EOLhyphen"/>ring to his <hi>Truths,</hi> as they have been delivered in the <hi>Scriptures,</hi> and taught in the beſt and pureſt <hi>Ages</hi> of the <hi>Church.</hi>
+               </p>
+               <p>Then, and not till then, will it appear, that we are acted by <hi>David</hi>'s Spirit, when we are ready to ſpeak, if need be, of God's Teſtimonies, even <hi>before Kings that oppoſe them, and not be aſhamed of them.</hi> Then do we approve our ſelves the Ser<g ref="char:EOLhyphen"/>vants and Worſhippers of <hi>Daniel</hi>'s <hi>God,</hi> when we own him with the hazard, nay, with the certain loſs of Reputation, Liberty, and utmoſt danger of Life it ſelf.</p>
+               <p>This Conſtancy and Courage for the <hi>Truth,</hi> was it which denominated thoſe <hi>Heroick Chriſtians,</hi> of
+<pb n="40" facs="tcp:58737:24"/>former Ages, <hi>Confeſſors;</hi> namely, their taking up their Maſter's Croſs, and owning him among their <hi>Heathen</hi> Perſecutors.</p>
+               <p>
+                  <hi>My Brethren,</hi> through the infinite Patience and Goodneſs of God towards us, who have deſerved no ſuch thing, we have been delivered from our Blood-thirſty Enemies, <hi>Papiſts,</hi> and another ſort of Men, who have made uſe of the <hi>Proteſtant</hi> Name, as a Cloak to ſecure them in oppoſing of the Proteſtant Cauſe, and undermining the <hi>Eſta<g ref="char:EOLhyphen"/>bliſhed Religion:</hi> And we are at preſent exempt from thoſe Sufferings and <hi>Martyrdoms,</hi> which in other Ages, and in our own Country, have been the Lot of <hi>God</hi>'s moſt faithful Servants.</p>
+               <p>But alas! we know not how ſoon our Heaven may overcaſt again, and the Clouds follow after the Rain. The great Fear is, leſt the <hi>Papiſts</hi> ſhould imitate the <hi>True Proteſtant</hi> Policy, and either purſue their Old, or ſet on foot a New <hi>Plot,</hi> in hopes that if it do, or do not take, they may leave it at other Mens Doors; and as eaſily now make the World believe, that it was a <hi>Phanatick Plot,</hi> as the <hi>Phanaticks</hi> could hope to perſwade us, that <hi>theirs</hi> was a <hi>Popiſh</hi> One; and ſo the latter end of our Fears and Troubles, may prove worſe than the be<g ref="char:EOLhyphen"/>ginning.</p>
+               <p>It will be the wiſdom of our Piety, in the midſt of our <hi>Jubilees</hi> and Triumphs, to prepare for new Dangers and Trials, and to reſolve, That the <hi>God</hi> of our Mercies and Deliverances, ſhall be our <hi>God</hi> in every Condition; that his Rod as well as his
+<pb n="41" facs="tcp:58737:24"/>Staff ſhall comfort us; and that we will put our whole <hi>truſt in him,</hi> as well when he <hi>ſlays,</hi> as when he ſaves us. This God ſhall be our God <hi>for ever and ever;</hi> he ſhall <hi>be our Guide, even unto death:</hi> And this minds me of a</p>
+               <p>Third Particular, in this our Confeſſing and Ac<g ref="char:EOLhyphen"/>knowledging of <hi>God's Almighty</hi> Goodneſs in our Deliverance; and that is, Dependance upon him for relief and reſcue in the like diſtreſs. Let not our Courage ſink, our Spirits be diſquieted or de<g ref="char:EOLhyphen"/>jected, with miſboding Apprehenſions of Future Evils; but let us humbly truſt in his continued Aid, who hath been our preſent help in Trouble, conſidering that, <hi>Donando debet,</hi> as St. <hi>Cyprian</hi> ſpeaks, God's paſt <hi>Bleſſings</hi> and <hi>Deliverances,</hi> if we make a good uſe of them, are Pawns and En<g ref="char:EOLhyphen"/>gagements of Future; I ſay, if we make a due return for them, and a right improvement of them. Which brings me to the upſhot of all, the main Duty of my <hi>Text,</hi> and of <hi>this Day</hi> eſpe<g ref="char:EOLhyphen"/>cially.</p>
+               <p n="2">II. The ſpeaking, <hi>ſinging,</hi> living, of <hi>Praiſes un<g ref="char:EOLhyphen"/>to the Name of our God.</hi> What we have ſpoken already concerning <hi>Confeſſion</hi> unto <hi>God,</hi> may de<g ref="char:EOLhyphen"/>note a ſerious and wiſe conſideration of his do<g ref="char:EOLhyphen"/>ings towards, and dealings with us, and ſome more ſilent ſhews of our <hi>Gratitude,</hi> in our adherence to him, and affiance in him. I am now to ſpeak of the <hi>Solemn Proclamations</hi> of his Greatneſs and Goodneſs, which we are to make with the Voice of <hi>Thanksgiving:</hi> When we have exerciſed our
+<pb n="42" facs="tcp:58737:25"/>obſerving Faculty, in regarding the Works of the Lord, we muſt employ our Mouths to expreſs the Thanks of our Minds, and make <hi>known his Faith<g ref="char:EOLhyphen"/>fulneſs to all Generations.</hi>
+                  <note place="margin">St. <hi>Baſil</hi> in Pſal. <hi>28.</hi>
+                  </note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Action muſt follow Contemplation in our Caſe. And when we have conſidered the <hi>Operation of God's Hand,</hi> our <hi>Mouth muſt praiſe him with joyful Lips,</hi> not <hi>concealing his loving-kindneſs and his Truth from the great Congregation.</hi> We muſt employ the beſt Organ we have, our Tongue, (which the <hi>Royal Pſalmiſt</hi> ſtiles our <hi>Glory</hi>) in this beſt, this <hi>heavenly,</hi> this <hi>glorious</hi> Service of <hi>Praiſe.</hi> And in<g ref="char:EOLhyphen"/>deed, if a grateful Affection live in our Hearts, it will proceed forth of our Lips; there will be a Conſpiracy, and faithful Correſpondency, between our Mind and our Tongue; if the one be ſenſible, the other will not be ſilent. We <hi>ſhall talk of his loving-kindneſs in the Morning, and of his faithful<g ref="char:EOLhyphen"/>neſs every Night, uttering abundantly the memory of his great Goodneſs, and ſinging of his Righteouſneſs, making known to the Sons of Men his mighty Acts, and the glorious Majeſty of his Kingdom,</hi> accord<g ref="char:EOLhyphen"/>ing to the Expreſſions of our <hi>ſweet ſinger</hi> in ſun<g ref="char:EOLhyphen"/>dry places.</p>
+               <p>Acknowledgments of the Divine Goodneſs, and ſolemn Teſtifications of our thankful ſenſe thereof, (how indiſpoſed and averſe ſoever our ſluggiſh Minds are thereunto) was always, and ever will be, the principal and moſt noble part of all <hi>Reli<g ref="char:EOLhyphen"/>gion,</hi> immediatly <hi>addreſſed to God.</hi> It is the only Heavenly Work that can be done upon Earth, the only joyful Employment which ſhall laſt to all
+<pb n="43" facs="tcp:58737:25"/>
+                  <hi>Eternity;</hi> and which <hi>ſhould ever wait for God in Sion,</hi> and upon all occaſions, be exerciſed here in the Aſſemblies of the Faithful.</p>
+               <p>When the ordinary effects of the Divine Provi<g ref="char:EOLhyphen"/>dence, do in any advantageous manner preſent themſelves to our view; when we peruſe the Volumes of Story, and therein obſerve the various Events of humane Actions; eſpecially the ſeaſonable Rewards of Vertue, the notable Protection and Delive<g ref="char:EOLhyphen"/>rance of Innocence; and the deſerved Puniſh<g ref="char:EOLhyphen"/>ments of malicious Wickedneſs. Then is it ſea<g ref="char:EOLhyphen"/>ſonable to <hi>ſing unto the Lord a new Song;</hi> to praiſe him in a high and exalted ſtrain, eſpecially upon ſo ſignal a manifeſtation of <hi>Mercy</hi> and <hi>Judgment,</hi> as that was which we celebrate <hi>this Day.</hi>
+               </p>
+               <p>It was once ſaid of <hi>Claudian,</hi> That he wanted Matter ſuitable to the excellency of his Wit. But where is Wit and Eloquence worthy of this <hi>Sub<g ref="char:EOLhyphen"/>ject? Who can utter theſe mighty Works of the Lord?</hi> Who <hi>can</hi> ſhew forth all his Praiſe? None ſo well as our chief Muſician, whoſe <hi>Tongue was as the Pen of a ready Writer.</hi> And we cannot do it better, than in a <hi>Pſalm</hi> of his compoſing. We have ſeen in <hi>Scrip<g ref="char:EOLhyphen"/>ture,</hi> how they were wont to praiſe <hi>God</hi> with <hi>Songs</hi> and <hi>Hymns.</hi> And beſides <hi>David,</hi> we have inſtan<g ref="char:EOLhyphen"/>ced in <hi>Moſes</hi> and <hi>Miriam, Deborah</hi> and <hi>Barak,</hi> &amp;c. and may add <hi>Simeon</hi> and <hi>Anna.</hi>
+               </p>
+               <p>In the <hi>Chriſtian Church,</hi> after they had ended their <hi>Love-Feaſts,</hi> they began their <hi>Hymns,</hi> which were either taken from the <hi>Scriptures,</hi> or of their own compoſition: Which <hi>Pliny</hi> takes notice of, as of a great part, nay, as of the whole in a manner
+<pb n="44" facs="tcp:58737:26"/>of their Worſhip; that they did, <hi>Secum invicem carmen Chriſto quaſi Deo dicere; That they joined to<g ref="char:EOLhyphen"/>gether in ſinging a Pſalm to Chriſt as their God.</hi> And indeed, it hath been the general and authoriſed pra<g ref="char:EOLhyphen"/>ctice of all Nations, in all Times, by compoſed <hi>Hymns,</hi> and <hi>panegyrical Elogies,</hi> to expreſs their Gratitude for the Gifts of Nature, and for the Be<g ref="char:EOLhyphen"/>nefits indulged by <hi>Providence.</hi> And ſhall not this ſtir our Emulation, and kindle our Sacrifices? Shall not our Devotion keep pace with, if not outgo theirs? Shall we not feel our Tranſports in ſo af<g ref="char:EOLhyphen"/>fecting an Occaſion? and in this ſenſe <hi>give thanks unto the Lord among the Heathen, and ſing Praiſes unto his Name?</hi>
+               </p>
+               <p>Surely, if we conſider the neceſſity, as well as the comelineſs and expediency of the Duty, the Admonitions of the <hi>Prophets,</hi> as well as the Precepts of <hi>Philoſophers,</hi> and the Examples of both; if we conſider the greatneſs and imminency of the Dan<g ref="char:EOLhyphen"/>ger, and conſequently the bleſſing of the <hi>Delive<g ref="char:EOLhyphen"/>rance,</hi> we ſhall not want our <hi>Hallelujahs,</hi> we ſhall not want any incitement to, or aſſiſtance in this Duty of <hi>Thanksgiving;</hi> but as we have great reaſon to bleſs God, ſo I hope we <hi>ſhall make our boaſts of him all the Day long.</hi>
+               </p>
+               <p>What a deluge of Confuſion were theſe poor Nations running into? How deep were the Diſ<g ref="char:EOLhyphen"/>contents of the <hi>People?</hi> How ready the Tinder of unſatisfied Spirits, in all Parts, to take Fire, and break out into a devouring and irreſiſtible Flame? Which would ſoon have made this good Land, that <hi>was before them like the Garden of</hi> Eden, to <hi>have
+<pb n="45" facs="tcp:58737:26"/>been behind them like a deſolate Wilderneſs.</hi> How near was the <hi>Glory departing from our</hi> Iſrael? How near was the <hi>Crown falling from our Head?</hi> and all our Happineſs expiring with the <hi>Breath of our No<g ref="char:EOLhyphen"/>ſtrils?</hi> We know not where the Rage and Cruelty of our Enemies would have ſtop'd: We know not how many beſides his <hi>Royal Brother,</hi> ſhould have <hi>fallen on the Right,</hi> and on <hi>the left Hand of the King.</hi> But we know, it was reſolved to follow the Blow at <hi>Majeſty,</hi> with a <hi>Maſſacre;</hi> and that ſe<g ref="char:EOLhyphen"/>veral Perſons of <hi>Quality,</hi> and Place, the <hi>Magi<g ref="char:EOLhyphen"/>ſtrates</hi> of our Great <hi>City,</hi> and <hi>Subjects</hi> every where, of moſt eminent and tried <hi>Loyalty,</hi> were deſigned for immediate ſlaughter.</p>
+               <p>If this <hi>Conſpiracy</hi> had taken place, we ſhould not, in all likelihood, have been ſo much as a <hi>People,</hi> or a very miſerable <hi>People,</hi> if any at all: For it is not ſo many Heads of Men jumbled together, but ſo many placed in a due ſubordination, under Rule and Government, that make a <hi>People,</hi> a Body or Society of Men. The very Life and being of a Nation, are the <hi>Laws</hi> and Ordinances of it, whe<g ref="char:EOLhyphen"/>ther <hi>Civil</hi> or <hi>Sacred:</hi> The <hi>Civil</hi> to make it a <hi>King<g ref="char:EOLhyphen"/>dom,</hi> and the <hi>Sacred</hi> to make it a <hi>Church.</hi> When thoſe are at any time demoliſhed or diſſolved, we ceaſe to be either <hi>Nation</hi> or <hi>Church;</hi> and you may write <hi>Lo-ammi</hi> upon it, yea, <hi>Lo-ruhamah,</hi>
+                  <note place="margin">
+                     <hi>Hoſ.</hi> 1.8, 9.</note> no <hi>Peo<g ref="char:EOLhyphen"/>ple,</hi> nor yet no Pity. And theſe were deſtined to ſpeedy deſtruction, with all their ſure Supporters, by the <hi>Men of Violence</hi> we have before deſcribed. <hi>Curſed be their Anger, for it was fierce;</hi>
+                  <note place="margin">
+                     <hi>Gen.</hi> 48.7.</note> 
+                  <hi>and their Wrath, for it was cruel:</hi> yea rather, bleſſed be <hi>the
+<pb n="46" facs="tcp:58737:27"/>moſt High God, who hath delivered theſe Enemies into our Hand,</hi> and ſtrangled all their teeming Hopes between the Womb and the World.</p>
+               <p>Indeed, the horror of the Miſchief intended, may a little chill the Mirth of this Days Thankſ<g ref="char:EOLhyphen"/>giving, and cauſe us to <hi>rejoice with trembling,</hi> even at this our <hi>Deliverance:</hi> Yet may we hope withal, that that which damps the Blaze, will continue the Burning; that ſuch Abatements will help to keep Life in our Joy, and prolong, if not perpetuate our <hi>Sacrifice</hi> of <hi>Praiſe.</hi>
+               </p>
+               <p>Perhaps, the contrivance of this Bloody and Barbarous Deſign was therefore permitted, that the diſappointment might be had <hi>in everlaſting remem<g ref="char:EOLhyphen"/>brance,</hi> and celebrated as it is this <hi>Day.</hi> It may be this was done, that we might ſay <hi>no more, The Lord liveth, who hath delivered us</hi> from the <hi>Treaſon</hi> of pre<g ref="char:EOLhyphen"/>tended <hi>Catholicks;</hi> but the <hi>Lord</hi> liveth, who hath delivered us from the Tyranny and bloody Rage of wild <hi>Fanatical Enthuſiaſts.</hi>
+               </p>
+               <p>How ſhould ſuch Conſiderations as theſe, the Conſiderations of our great Dangers, and our gra<g ref="char:EOLhyphen"/>cious Deliverances, enlarge our Hearts, fill our Mouths, act our Lives with the Praiſes of the Lord? What Memorials, and Monuments, and <hi>Ebenezers</hi> ſhould we every where erect? And how ſeaſonably may we at this time take to our ſelves words, The words of <hi>the Royal Prophet</hi> David? <hi>Bleſſed be the Lord,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 124.6.</note> 
+                  <hi>who hath not given us a Prey to their Teeth.</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 68.20.</note> 
+                  <hi>He is our God, even the God of whom cometh Salvation. God is the Lord, by whom we e<g ref="char:EOLhyphen"/>ſcape Death. God hath ſhewed us his Goodneſs plen<g ref="char:EOLhyphen"/>teouſly;
+<pb n="47" facs="tcp:58737:27"/>and God hath let us ſee our Deſire upon our Enemies.</hi> And after theſe, the words of the <hi>Courtly</hi> Prophet <hi>Iſay,</hi> in a way of holy Triumph over our <hi>Enemies.</hi>
+               </p>
+               <p>
+                  <hi>Aſſociate your ſelves, O ye People; and give ear,</hi>
+                  <note place="margin">
+                     <hi>Iſa.</hi> 8.9, 10.</note> 
+                  <hi>O ye of all Nations:</hi> or rather, ye of the ſeve<g ref="char:EOLhyphen"/>ral <hi>Sects</hi> and Parties in this <hi>Nation, Gird your ſelves, and ye ſhall be broken in pieces: Take counſel toge<g ref="char:EOLhyphen"/>ther,</hi> Plot, Conſpire, <hi>and it ſhall come to nought: ſpeak the word,</hi> appoint one Time and Place after another, for the execution of your bloody Pur<g ref="char:EOLhyphen"/>poſes, <hi>and it ſhall not ſtand; for God is with us.</hi>
+               </p>
+               <p>And that our glorying may not be in vain, it will concern us very much, to add Real Thanks to our Verbal; not only to <hi>offer Praiſe,</hi> but to <hi>order our Converſations aright.</hi>
+               </p>
+               <p>Our Thanks muſt not ſtay in Words and Inſtru<g ref="char:EOLhyphen"/>ments, but proceed on to return of Affections and Actions. It muſt be <hi>Actio Gratiarum,</hi> a <hi>doing,</hi> a working of <hi>Thanks,</hi> as one ſpeaks.</p>
+               <p>When <hi>David</hi> had repreſented the difficulty, if not the impoſſibility of giving God due and full praiſe; <hi>Pſal.</hi> 106.1. Who can ſhew forth all his praiſe? He tells us, <hi>verſ.</hi> 3. who come neareſt do<g ref="char:EOLhyphen"/>ing ſo, <hi>viz. they that keep Judgment,</hi> and <hi>he that doth Righteouſneſs.</hi>
+               </p>
+               <p>
+                  <hi>Tacitus,</hi> ſpeaking of certain words of <hi>Tiberius,</hi> ſaith, they were <hi>praeclara verba, ſed non pro</hi> Tiberio, <hi>very excellent words, if</hi> Tiberius <hi>had not ſpoken them.</hi> The like may we ſay of <hi>Pſalms,</hi> and <hi>Forms</hi> of <hi>Thanksgiving,</hi> in the Mouths of ungodly Men, they are good in themſelves, but not graceful in them:
+<pb n="48" facs="tcp:58737:28"/>For,<note place="margin">
+                     <hi>Prov.</hi> 17.7.</note> 
+                  <hi>excellent Speech becometh not a Fool;</hi> nor is <hi>praiſe comely</hi> for any but the <hi>Righteous:</hi> And <hi>Tacitus</hi> hit upon the reaſon of this too; <hi>Nec enim ad hanc formam caetera ſunt.</hi> His other Actions accord not with theſe, but found forth God's Diſpraiſe and Diſhonour, in a louder accent than this, wherein his Tongue and Lips ſpeak his praiſe. <hi>Canticum novum &amp; vetus homo malè concordant.</hi> I think it is St. <hi>Bernard</hi>'s; <hi>The ſinging of a new Song,</hi> without <hi>the leading of a new Life,</hi> is a moſt unpleaſant <hi>Diſ<g ref="char:EOLhyphen"/>cord</hi> in our <hi>Gratitude.</hi>
+               </p>
+               <p>All Men, the worſt of Men, are bound indeed to praiſe <hi>God</hi> for his Mercies, common and ſpecial. It lieth upon them as a <hi>Duty,</hi> but it belongs not to them as a <hi>Privilege. <g ref="char:V">Ʋ</g>nto they Wicked,</hi> ſaith <hi>God, What haſt thou to do to take my Covenant into thy Mouth?</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 149.3.</note> But <hi>Iſrael</hi> may <hi>rejoice in God. Let them praiſe him in the Dance,</hi> in the Dance as well as with the <hi>Song;</hi> in their Ways and Walkings <hi>before God,</hi> as well as with their Words unto him; in the regular Motions of their Lives, as well as with the Chantings of their Voice, or the Melody of <hi>Timbrel</hi> or <hi>Harp:</hi> for the <hi>Lord takes pleaſure in his People,</hi> and in their Services.</p>
+               <p>It is their Honour and their Priviledg to ſerve him; and he is pleaſed to own it as <hi>his Glory,</hi> to be ſerved by them: He <hi>that offereth Praiſe, glorifieth me,</hi>
+                  <note place="margin">Pſal. <hi>58.</hi> ult.</note> 
+                  <hi>i. e.</hi> if his Praiſe be attended <hi>with a well-ordered Converſation.</hi>
+               </p>
+               <p>We then <hi>thank God,</hi> as we ought, for his Good<g ref="char:EOLhyphen"/>neſs, when we become good our ſelves; when we ſerve him with the Mercies we receive from him;
+<pb n="49" facs="tcp:58737:28"/>and the mortifying of one Luſt, will give more glory to God, than the ſinging of a thouſand <hi>Pſalms.</hi> We extol and honour <hi>God</hi> indeed, when we <hi>look upwards</hi> our ſelves; when we mind <hi>heavenly</hi> Things; when we walk in <hi>a way</hi> which is above to the Wiſe: Or in St. <hi>Baſil</hi>'s Expreſſion,<note place="margin">Hom. in <hi>Pſal.</hi> 29. p. 181.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, when we diſ<g ref="char:EOLhyphen"/>creetly purſue or haſten towards everlaſting Hap<g ref="char:EOLhyphen"/>pineſs; When we live up to the Principles of our Religion, and give <hi>God</hi> the <hi>Worſhip</hi> and <hi>Homage</hi> be<g ref="char:EOLhyphen"/>longing to his <hi>Majeſty.</hi>
+               </p>
+               <p>We make great ſhews, when we <hi>aſſemble and meet together,</hi> as we do this Day, to <hi>render Thanks to Almighty God,</hi> for the <hi>Benefits received at his Hands.</hi> And if this were to be performed with words only, with <hi>Hoſannah</hi>'s and <hi>Hallelujah</hi>'s, and <hi>Gloria Patri's,</hi> and <hi>Pſalms,</hi> and <hi>Hymns,</hi> peradven<g ref="char:EOLhyphen"/>ture we ſhould do it well enough; but in the mean time, by our Lives and Actions, we provoke the <hi>Almighty</hi> with all variety of Offences: We do, daily and hourly, ſuch things as we know are highly diſpleaſing and odious to him. But we may aſſure our ſelves, theſe things will not only marr the Muſick of our Thankſgiving, but render our <hi>Deliverances</hi> as inſignificant as our <hi>Praiſes.</hi> Yea, every <hi>Sin,</hi> after ſuch a Mercy as this, hath a double Guilt, the Guilt of <hi>Ingratitude,</hi> as well as <hi>Diſobedi<g ref="char:EOLhyphen"/>ence;</hi> and therefore threatneth us with new and greater Puniſhments, and to bring us nearer, if it may be, to Ruin, than we were before.</p>
+               <p>
+                  <hi>Seeing thou, O God,</hi>
+                  <note place="margin">
+                     <hi>Ezra</hi> 9.13.</note> 
+                  <hi>hast given us ſuch a Deli<g ref="char:EOLhyphen"/>verance as this; ſhould we again break thy Command<g ref="char:EOLhyphen"/>ments?
+<pb n="50" facs="tcp:58737:29"/>Wouldſt thou not be angry with us, till thou hadſt conſumed us, ſo that there ſhould be no Remnant, nor eſcaping? I will therefore,</hi> with St. <hi>Jude,</hi> ver. 5. <hi>put you in remembrance, though ye once knew this, how the Lord having ſaved the People out of the Land of</hi> Egypt, <hi>afterwards deſtroyed them that believed not.</hi>
+               </p>
+               <p>Never any People held their Happineſs by a fairer Charter than <hi>Jeruſalem,</hi> yet their Sins forfei<g ref="char:EOLhyphen"/>ted their Privileges, and defaced their Glory. And though God <hi>ſpeak concerning a Nation, to build, and to plant it; if that Nation do evil in his ſight, he will repent of the good wherewith he aid he would benefit them.</hi>
+               </p>
+               <p>Let us therefore, I beſeech you, not only thank<g ref="char:EOLhyphen"/>fully acknowledg, but piouſly improve our Mer<g ref="char:EOLhyphen"/>cies, leſt our <hi>Sins</hi> provoke God to let looſe our Enemies again upon us, and ſuffer them to ſtrike Home, to execute their Malice, and <hi>quench the Light of our Iſrael.</hi>
+               </p>
+               <p>Let us not grow careleſs,<note place="margin">
+                     <hi>Iſa.</hi> 14.29.</note> 
+                  <hi>becauſe the Rod of him that ſmote</hi> us, <hi>is broken,</hi> leſt out of <hi>the Serpent's Root come forth a Cockatrice.</hi> Much leſs let us rebel againſt him, who hath ſubdued our Enemies, and ſo fall by that very Hand of his which delivered us out of Theirs; or rather deſtroy our ſelves, after ſo miraculous a Reſcue and Preſervation.</p>
+               <p>We learn this from the <hi>Heathen</hi> Hiſtorian;<note place="margin">Livy.</note> 
+                  <hi>Om<g ref="char:EOLhyphen"/>nia proſpera eveniunt colentibus Deos, adverſa ſper<g ref="char:EOLhyphen"/>nentibus; It ſhall go well with thoſe that fear the Lord, whilſt thoſe that deſpiſe him, ſhall fall before him.</hi>
+               </p>
+               <pb n="51" facs="tcp:58737:29"/>
+               <p>
+                  <hi>Valerius Maximus</hi> attributed the Proſperity and Flouriſhing of the <hi>Roman Empire,</hi>
+                  <note place="margin">Non mirum ſi pro eo Impe<g ref="char:EOLhyphen"/>rio augendo pettinax in<g ref="char:EOLhyphen"/>dulgentia De<g ref="char:EOLhyphen"/>orum excubu<g ref="char:EOLhyphen"/>it, quod tam ſcrupuloſâ cu<g ref="char:EOLhyphen"/>râ parvula quoque mo<g ref="char:EOLhyphen"/>menta religio<g ref="char:EOLhyphen"/>nis examinare videretur.</note> to their great care, and ſcrupulous exactneſs, in every Part and Ceremony of their Religious Worſhip. Hence <hi>Religion,</hi> and the <hi>Fear</hi> of <hi>God,</hi> is by <hi>Plato</hi> ſtiled the Defence of Power; The <hi>Kings</hi> and the <hi>Peoples Life-Guard</hi> both. And <hi>Plutarch</hi> tells us, that it is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the <hi>Band of all So<g ref="char:EOLhyphen"/>ciety;</hi> and that we may as eaſily build a City in the Air, as ſettle and eſtabliſh a Common-wealth, where there is no Fear of God to ſupport it. And the Wiſe King <hi>Solomon,</hi> who ſpoke by Divine In<g ref="char:EOLhyphen"/>ſtruction, aſſures us, that it is not only the Strength and Safety, but the Glory and Honour of a King<g ref="char:EOLhyphen"/>dom. Righteouſneſs exalteth a Nation, puts a Dignity and Excellency, as well upon a People, as upon Private Perſons. Yea, the very Shadow thereof,<note place="margin">Deus oſten<g ref="char:EOLhyphen"/>dit praeclaro Romanorum Imperio, quantum va<g ref="char:EOLhyphen"/>lerent virtutes Civiles etiam ſine vera Reli<g ref="char:EOLhyphen"/>gione. <hi>Epiſt.</hi> 5. <hi>ad</hi> Marcellin.</note> hath proved (like St. <hi>Peter</hi>'s) Healing to a State. For it was St. <hi>Auſtin</hi>'s Obſervation, of the fore-named ample and glorious <hi>Empire,</hi> that God proſpered it for their <hi>Civil Vertues,</hi> though they had no <hi>True Religion:</hi> Yea, the Son of <hi>Syrach</hi> ſeems to attribute much to a Negative Holineſs; Ecclus 35.3. <hi>To depart from Wickedneſs, is a thing pleaſing to the Lord; and to forſake <g ref="char:V">Ʋ</g>nrighteouſneſs, is a Propitiation.</hi>
+               </p>
+               <p>Now if the upholding of <hi>Civil</hi> Order, and the Publick Reſtraint of the Extravagant Appetites and Luſts of Men, be ſuch an Honour and ſafety to a <hi>Nation;</hi> How much more is the Profeſſion of <hi>True Religion,</hi> and the Practice of Real Righteouſ<g ref="char:EOLhyphen"/>neſs? If <hi>Hypocrites</hi> have <hi>their Reward;</hi> How much
+<pb n="52" facs="tcp:58737:30"/>more will <hi>David</hi>'s <hi>Integrity</hi> and Uprightneſs, <hi>pre<g ref="char:EOLhyphen"/>ſerve</hi> both <hi>King</hi> and <hi>People?</hi>
+               </p>
+               <p>It entitles as well to Temporal, as to Spiritual and Eternal Bleſſings;<note place="margin">
+                     <hi>Iſa.</hi> 1.19.</note> 
+                  <hi>If ye be willing, and obedi<g ref="char:EOLhyphen"/>ent, ye ſhall eat the Good of the Land.</hi>
+               </p>
+               <p>Let it therefore be our common Care, as it is our joint Intereſt, to forſake thoſe <hi>Sins</hi> of ours, which weaken our Government, and waſte our Land; which ſap the Foundation, and ſhake the Fabrick of <hi>Church</hi> and <hi>State,</hi> more than any other Underminers and <hi>Conſpirators.</hi>
+               </p>
+               <p>Let us endeavour, in our ſeveral Places and Ca<g ref="char:EOLhyphen"/>pacities, to ſhew forth that exemplary Piety, and uniform Obedience, which <hi>becometh</hi> the Goſpel; which is the Strength and Ornament of the <hi>Prote<g ref="char:EOLhyphen"/>ſtant Cauſe,</hi> our Sanctuary in Trouble, and the <hi>Glory</hi> of our Proſperity.</p>
+               <p>Yea, let our <hi>honouring of the King,</hi> proceed from our <hi>fear of God;</hi> Our <hi>Loyalty</hi> be the genuine Fruit of our <hi>Religion;</hi> and the Conſcience of <hi>God's Ordinance</hi> and Command, be the Promoter and Guide of our ſubjection to the <hi>Civil Power.</hi> And conſidering that our Obedience to our Supe<g ref="char:EOLhyphen"/>riors, who are God's Vicegerents and Miniſters, is an eminent inſtance of our true Obedience to <hi>God</hi> himſelf; it will not be amiſs, nay certainly, it will be moſt ſeaſonable at this time, to give it its due place in my <hi>Exhortation,</hi> to that Holineſs and Righteouſneſs of Life, which is the beſt expreſſion of our Thanks.</p>
+               <p>The Excellent <hi>Photius,</hi> in his Notes upon the <hi>13th</hi> to the <hi>Romans,</hi> preſſeth ſubjection to Gover<g ref="char:EOLhyphen"/>nors,
+<pb n="53" facs="tcp:58737:30"/>as a proper way of glorifying <hi>God;</hi> Thou gaineſt <hi>by being a Subject;</hi>
+                  <note place="margin">Apud Oecu<g ref="char:EOLhyphen"/>menium.</note> not <hi>only becauſe thou fulfilleſt the Command,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>becauſe thou doſt honour God, in the honouring the Power ordained by him.</hi>
+               </p>
+               <p>I might forbear, me-thinks, to <hi>put you in mind to be ſubject</hi> to <hi>Principalities</hi> and <hi>Powers, to obey Magiſtrates,</hi> whilſt you have before you ſo many plain <hi>Scriptures,</hi> and ſo many <hi>exemplary Providences,</hi> preaching and preſſing that Doctrine. The Deli<g ref="char:EOLhyphen"/>verance we celebrate; the Diſcovery and Puniſh<g ref="char:EOLhyphen"/>ment of the <hi>Traytors,</hi> as well as the <hi>Leſſons</hi> of <hi>the Day,</hi> tell us aloud, that God juſtifies and abets Rule and <hi>Soveraignty,</hi> and requireth ſubjection thereunto.</p>
+               <p>We are taught this, I ſay, by the <hi>Word of God,</hi> which engageth us to this Obedience, by as oblig<g ref="char:EOLhyphen"/>ing Principles, as it doth to any part of Religion. And we are taught it too, in</p>
+               <p>The Second place, by <hi>the Works of God.</hi>
+               </p>
+               <list>
+                  <item>1. By <hi>the eminent Judgments that have purſued and ſeized notorious Rebels.</hi>
+                  </item>
+                  <item>2. By <hi>the admirable Preſervations and Protections of Soveraign Princes.</hi>
+                  </item>
+               </list>
+               <p n="1">1. By the final Judgments of God upon Rebels and <hi>Traitors.</hi> We find many of them in the <hi>Scrip<g ref="char:EOLhyphen"/>ture Hiſtory;</hi> and we find there too, that none of them went to their Graves in peace. <hi>Achitophel,
+<pb n="54" facs="tcp:58737:31"/>Abſolom, Sheba, Abner, Abiathar, Joab, Athaliah, Zimri, Adoniah:</hi> They all paid dearly for the Miſchief they did, and ended their days in diſho<g ref="char:EOLhyphen"/>nour, and left nothing behind them but the Memo<g ref="char:EOLhyphen"/>ry of their Sin, and the Record of their Curſe.</p>
+               <p>Yea, if we examine other <hi>Chronicles,</hi> we ſhall find Inſtances of the ſame nature.</p>
+               <p>
+                  <hi>Suetonius,</hi> in the Life of <hi>Julius Caeſar,</hi> obſerved, that there was hardly one of his Murthers, (though a <hi>Heathen,</hi> and an <hi>Arbitrary Prince</hi>) that ſurvived the Wickedneſs three Years,<note place="margin">Vid. <hi>Iſaac. Caſaub.</hi> Not.</note> 
+                  <hi>ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſua morte defun<g ref="char:EOLhyphen"/>ctus eſt;</hi> all dying violent Deaths, ſome by Ship<g ref="char:EOLhyphen"/>wrack, ſome in Battel; ſome by the Hand of Ju<g ref="char:EOLhyphen"/>ſtice, others by their own. And <hi>Marcellinus</hi> re<g ref="char:EOLhyphen"/>lates it of the <hi>Conſpirators</hi> againſt <hi>Gordianus</hi> the Younger, <hi>Quod velut clareſcente juſtitiâ cruciabilibus interiere ſuppliciis;</hi> That <hi>they died with exquiſite Tortures,</hi> that <hi>Juſtice might become more conſpicuous in their Sufferings.</hi>
+               </p>
+               <p>All Stories are full of Examples of this kind, and no wonder, ſeeing it was a Truth known to a <hi>Pro<g ref="char:EOLhyphen"/>verb</hi> in <hi>Solomon</hi>'s time;<note place="margin">
+                     <hi>Prov.</hi> 24.22.</note> 
+                  <hi>My Son, fear thou the Lord, and the King; and meddle not with them that are given to change: For their Calamity ſhall riſe ſudden<g ref="char:EOLhyphen"/>ly, and who knoweth the ruin of them both?</hi>
+               </p>
+               <p>
+                  <hi>Whoſo breaketh a Hedg, a Serpent ſhall bite him; whoſe removeth Foundation-ſtones,</hi>
+                  <note place="margin">
+                     <hi>Eccl.</hi> 10.8, 9.</note> 
+                  <hi>ſhall be hurt there<g ref="char:EOLhyphen"/>with.</hi> Thoſe that break the <hi>Laws,</hi> which are the <hi>Fence</hi> and Security of a <hi>Nation,</hi> expoſe themſelves to certain Ruin.</p>
+               <pb n="55" facs="tcp:58737:31"/>
+               <p>Thoſe Turbulent and Seditions Perſons among the <hi>Jews,</hi> who aſſumed to themſelves the blazing Title of <hi>Zealots,</hi> who yet had more Heat and Paſ<g ref="char:EOLhyphen"/>ſion, than Judgment or Religion; being prone to Mutiny and Faction, and ready to pretend Conſci<g ref="char:EOLhyphen"/>ence, even for Rebellion it ſelf; though they brought Deſolation upon their own <hi>City,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Joſ. <hi>l.</hi> 7. <hi>c.</hi> 30.</note> Ruin up<g ref="char:EOLhyphen"/>on their <hi>Nation,</hi> they brought withall the ſeverity of God's Judgments upon themſelves. For as ma<g ref="char:EOLhyphen"/>ny puniſhments, as it is poſſible for Man's Nature to endure, were heaped upon them, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as long as any breath of Life re<g ref="char:EOLhyphen"/>mained.</p>
+               <p>St. <hi>Jude</hi> making mention of ſuch as <hi>did deſpiſe and ſpeak evil of Dignities,</hi> verſ. 8, 11. ſays, <hi>That they periſhed in the gain-ſaying of</hi> Core.</p>
+               <p>This <hi>Core</hi> (or <hi>Korah</hi>) was a <hi>Levite,</hi> who by his Office was to have taught <hi>Jacob God's Judg<g ref="char:EOLhyphen"/>ments,</hi> and <hi>Iſrael his Law;</hi> but he being one of thoſe <hi>who corrupted the Covenant of</hi> Levi, and did things very unbecoming his Character, drew three <hi>principal Men of the Tribe of</hi> Reuben, and then two hundred and fifty <hi>Princes</hi> of the <hi>Aſſembly</hi> (famous <hi>in the Congregation, Men</hi> of <hi>Renown, popular Perſons,</hi> and <hi>great Patriots</hi>) into his Confederacy; and having gathered his <hi>Aſſociats</hi> together, againſt <hi>Moſes</hi> and <hi>Aaron,</hi> they ſtuck not to affront them, and throw dirt into their Faces: But by theſe Mens ſtrange periſhing in this gain-ſaying of theirs, the very Women (who uſually make a part in ſuch Factions) were convinced, that by this way of
+<pb n="56" facs="tcp:58737:32"/>oppoſing <hi>Moſes</hi> and <hi>Aaron,</hi> they oppoſed <hi>God</hi> himſelf, the <hi>Ordainer</hi> and Abetter of their <hi>Autho<g ref="char:EOLhyphen"/>rity;</hi> for the <hi>Daughters</hi> of <hi>Zelophehad</hi> could ſay, <hi>Our Father died in the Wilderneſs,</hi>
+                  <note place="margin">
+                     <hi>Numb.</hi> 27.3.</note> 
+                  <hi>and he was not in the company of them that gathered themſelves together againſt the Lord in the company of</hi> Korah. Nay, the very words of the <hi>Spirit of God,</hi> concerning <hi>Da<g ref="char:EOLhyphen"/>than</hi> and <hi>Abiram,</hi>
+                  <note place="margin">
+                     <hi>Numb.</hi> 26.9, 10.</note> are expreſs to this purpoſe; <hi>Theſe were famous in the Congregation, (the great In<g ref="char:EOLhyphen"/>dependents of thoſe Times) who ſtrove againſt</hi> Moſes, <hi>and againſt</hi> Aaron, <hi>when they ſtrove againſt the Lord; and the Earth opened her Mouth, and ſwal<g ref="char:EOLhyphen"/>lowed them up together with</hi> Korah, <hi>when that Compa<g ref="char:EOLhyphen"/>ny died;</hi> what time the <hi>Fire devoured two hundred and fifty Men, and they became a Sign.</hi>
+               </p>
+               <p>A dreadful Sign indeed, unto all them who af<g ref="char:EOLhyphen"/>terward ſhould follow their ſteps; to whom, St. <hi>Jude</hi> ſaith, is reſerved the blackneſs, of darkneſs for ever. For what better end may they expect, that dare adventure upon the like Turbulent and Seditious Courſes? The <hi>Levite</hi> begun the <hi>Faction there;</hi> and if he was not the beginner, we are aſſured, by his <hi>Majeſty</hi>'s <hi>Declaration,</hi> that he was the chief Promo<g ref="char:EOLhyphen"/>ter and Manager of our no leſs Damnable Conſpi<g ref="char:EOLhyphen"/>racy. Our <hi>Ferguſſon,</hi> as their <hi>Korah,</hi> by the like falſe Perſuaſions, draweth the Nobles after him; and no doubt made uſe of the ſame Motive, <hi>viz.</hi> the <hi>Ruler</hi>'s aſſuming too much to himſelf, and his <hi>invading</hi> the <hi>Peoples Rights</hi> and <hi>Liberties,</hi> there<g ref="char:EOLhyphen"/>by to <hi>inſtigate them to that reſiſtance;</hi> which if it eſcape the like puniſhment in this World, as it
+<pb n="57" facs="tcp:58737:32"/>ſeldom doth, ſhall be ſure, if unrepented of, to re<g ref="char:EOLhyphen"/>ceive the ſame <hi>Damnation</hi> in the next: Becauſe, <hi>whoſoever reſiſteth the Power, reſiſteth the Ordinance of God;</hi> and he will make them know ſo, ſooner or later, by the Vengeance which he executeth upon ſuch <hi>Reſiſters.</hi> And,</p>
+               <p n="2">2. By thoſe wonderful Preſervations which he vouchſafeth to the Perſons <hi>of Kings;</hi> their <hi>Prote<g ref="char:EOLhyphen"/>ctions</hi> being great and extraordinary, as their <hi>Dan<g ref="char:EOLhyphen"/>gers</hi> are: Whence they had the Title of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> given to them by the <hi>Ancients;</hi> particularly by St. <hi>Chryſoſtom,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, We pray for Kings, whom God takes into his pe<g ref="char:EOLhyphen"/>culiar Care and Safeguard.</p>
+               <p>How many Aſſaſſins have found themſelves daunted with the Rays of <hi>Majeſty?</hi> And,<note place="margin">
+                     <hi>Gowrie</hi>'s Conſp. <hi>fol.</hi> 6.</note> like <hi>Gowries</hi> Man, who when he was prepared to kill King <hi>James,</hi> trembled in his preſence, and fell to adore him.</p>
+               <p>How divinely was the ſame King preſerved from a deeper laid <hi>Treaſon,</hi> when the <hi>Match</hi> was ready to give fire to the <hi>Powder?</hi>
+               </p>
+               <p>I cannot ſtay to inſtance in the many Preſerva<g ref="char:EOLhyphen"/>tions and Deliverances of his Glorious Predeceſſor Queen <hi>Elizabeth.</hi>
+               </p>
+               <p>We may ſee this Goodneſs of <hi>Almighty God</hi> to <hi>Princes, Proteſtant Princes,</hi> his <hi>Kings,</hi> and <hi>his Anointed,</hi> nearer home, and in a more affecting Inſtance, <hi>our own gracious Soveraign,</hi> whoſe many admirable Deliverances, ſpeak him the ſpecial <hi>Fa<g ref="char:EOLhyphen"/>vourite</hi> of <hi>Heaven.</hi>
+               </p>
+               <pb n="58" facs="tcp:58737:33"/>
+               <p>
+                  <hi>Perez</hi> was wont to call himſelf,<note place="margin">Camb. Eliz. <hi>Part 2.</hi>
+                  </note> 
+                  <hi>Monſtrum For<g ref="char:EOLhyphen"/>tunae,</hi> the Prodigy of Fortune; and our Prince may appear to us, <hi>Monſtrum Providentiae,</hi> the Prodigy of Providence; taking the word, as <hi>Sca<g ref="char:EOLhyphen"/>liger</hi> applieth it to <hi>Virgil, Monſtrum ſine labie,</hi> a Pro<g ref="char:EOLhyphen"/>digy of Perfection.</p>
+               <p>And let us beſeech Almighty God, ſtill to deliver him from the Evil Man, to preſerve him from the Violent Man, to keep him from the Snare they have laid for him, and from the Grins of the workers of Iniquity; and that we, and all his Subjects, duly con<g ref="char:EOLhyphen"/>ſidering whoſe Authority he hath, may faith<g ref="char:EOLhyphen"/>fully ſerve, honour, and humbly obey him, in God, and for God, according to his bleſſed Word and Ordinance, through Jeſus Chriſt our Lord; who with him, and the Holy Ghost, liveth and reigneth, ever one God, World without End. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <list>
+               <item>Pag. 16. Line <hi>ul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> read <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</item>
+               <item>Pag. 17. l. 2. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>Pag. 24. l. 24 <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>Pag. 53. l. 25. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</item>
+            </list>
+         </div>
+         <div type="ode">
+            <pb n="59" facs="tcp:58737:33"/>
+            <head>An Euchariſtical Ode to God our Deli<g ref="char:EOLhyphen"/>verer, on the happy diſcovery of the late Treaſonable Conſpiracy.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>THou Great <hi>JEHOVAH,</hi> Mighty King,</l>
+               <l>Who can enough thy Praiſes ſing?</l>
+               <l>Or e're enough thy mighty Acts make known,</l>
+               <l>Which thou great <hi>God</hi> haſt ſhown</l>
+               <l>To us thy choſen Flock;</l>
+               <l>To us thy ſmall, but ſtill beloved Stock?</l>
+               <l>Wondrous, O <hi>Lord,</hi> are all thy Works, and great,</l>
+               <l>Thy Mercies ever Infinite.</l>
+               <l>Thou <hi>Sion</hi>'s Foes does ſtill defeat,</l>
+               <l>And bring'ſt their darkeſt Plots to light.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Great <hi>King!</hi> had'ſt thou not lent thine Aid,</l>
+               <l>And all our Foes diſmaid;</l>
+               <l>Had not thy piercing Wiſdom all their Secrets ſeen,</l>
+               <l>We, thy peculiar Lot, had been</l>
+               <pb n="60" facs="tcp:58737:34"/>
+               <l>Under th' inſulting Tyranny,</l>
+               <l>Of a Malignant Enemy;</l>
+               <l>Who would have all thy <hi>Temples</hi> raz't,</l>
+               <l>And laid their ſtately Buildings waſte;</l>
+               <l>Religion would have been no more,</l>
+               <l>Nor any left thy Holy Name t'adore,</l>
+               <l>But we ſhould all have gone,</l>
+               <l>Hurri'd, by a relentleſs Foe, to ſwift Deſtruction.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>But ſilly Mortals think in vain,</l>
+               <l>E're to obtain</l>
+               <l>What the <hi>Almighty</hi> does deny,</l>
+               <l>In vain they his great Power defy,</l>
+               <l>And think in vain to hide, what he can ſoon eſpy.</l>
+               <l>He all their ſubtil windings ſees,</l>
+               <l>And all their hidden Myſteries</l>
+               <l>His all-diſcerning Eyes can trace</l>
+               <l>Them, through all their hidden ways;</l>
+               <l>Can all their deep Deſigns reveal,</l>
+               <l>Tho dark as Night, and laid as low as Hell.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>'Twas <hi>He,</hi> the <hi>Mighty HE,</hi>
+               </l>
+               <l>Who ſav'd us from the Enemy,</l>
+               <pb n="61" facs="tcp:58737:34"/>
+               <l>Did ſave our <hi>King</hi> and Land,</l>
+               <l>From out the fierce Deſtroyers violent Hand.</l>
+               <l>Their ſpecious Shews, and ſubtle Arts,</l>
+               <l>Could not deceive the ſearcher of their Hearts.</l>
+               <l>He true Religion could deſcry,</l>
+               <l>From mere Hypocriſy:</l>
+               <l>He knew thoſe painted Tombs outſide,</l>
+               <l>Did but within a rotten Carkaſs hide;</l>
+               <l>He knew their Secret Plots, and them betraid,</l>
+               <l>Into the Snare which they for others laid.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>So periſh all, who <hi>Iſrael</hi>'s Peace moleſt,</l>
+               <l>Who <hi>Iſrael</hi> and God alike deteſt.</l>
+               <l>May <hi>Sion</hi>'s Foes be to confuſion brought,</l>
+               <l>And all who her Deſtruction ſought;</l>
+               <l>Who would have <hi>Iſrael</hi>'s King deſtroy'd,</l>
+               <l>And all the Royal Race beſide.</l>
+               <l>May all ſuch Plots as theſe</l>
+               <l>Be brought to light, and may at eaſe</l>
+               <l>Our <hi>Iſrael</hi> enjoy an everlaſting Peace;</l>
+               <l>While we our daily <hi>Hallelujah</hi>'s ſing,</l>
+               <l>To our Deliverer, <hi>Iſrael</hi>'s Mighty <hi>King.</hi>
+               </l>
+            </lg>
+            <pb n="62" facs="tcp:58737:35"/>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Begin, my Song, begin,</l>
+               <l>And thou great God of Verſe and Harmony,</l>
+               <l>Some of thy Fire into my Breaſt infuſe,</l>
+               <l>Inſpire my dull and groveling Muſe,</l>
+               <l>That I may Verſe, ſuch as may pleaſe thee, bring,</l>
+               <l>Such as the <hi>God-like David</hi> us'd to ſing;</l>
+               <l>Such as ſhall worthy be,</l>
+               <l>Of <hi>Heaven</hi> and Thee.</l>
+               <l>Grant I may ſing thy Praiſe</l>
+               <l>In fitteſt Numbers, tuneful Lays,</l>
+               <l>Which may thy wondrous mighty Works declare,</l>
+               <l>And make thy bounteous Acts appear:</l>
+               <l>That the deluded World may all believe,</l>
+               <l>'Tis God, our God alone, can Safety give.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>When Wicked Men begin to rage,</l>
+               <l>Thou only canſt their Wrath aſſwage,</l>
+               <l>Thou who can'ſt ſtill the Winds, can'ſt calm the Seas,</l>
+               <l>And make 'em ſink into a tranquil Peace:</l>
+               <l>Thou Men, more boiſterous than they,</l>
+               <l>Can'ſt eas'ly calm, for all things thee obey:</l>
+               <pb n="63" facs="tcp:58737:35"/>
+               <l>All things act by thy command;</l>
+               <l>All things are moved by thy Hand,</l>
+               <l>And Men in vain thy mighty Power withſtand.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>All Creatures, if they could, would ſing thy praiſe,</l>
+               <l>But Man alone knows all thy ways:</l>
+               <l>Him thou haſt exalted, far</l>
+               <l>Above what other Creatures are:</l>
+               <l>Haſt made him Lord of all below,</l>
+               <l>And taught him how both Good and Ill to know.</l>
+               <l>He then ſhall never ceaſe to ſing,</l>
+               <l>Of all thy wondrous Acts, O King;</l>
+               <l>Of all thy Kindneſs lately ſhown</l>
+               <l>To this our Nation.</l>
+               <l>We all extol thy Name with one accord;</l>
+               <l>Extol and magnify thee only, gracious Lord.</l>
+               <l>
+                  <hi>Hallelujah.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>JOHN CAVE the Son, of <hi>Linc.</hi> Col. <hi>Ox.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
